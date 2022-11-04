@@ -1,0 +1,599 @@
+,Week,Day,Date,Unnamed: 5,Opp,Tm,Opp.1,1stD,TotYd,PassY,RushY,TO,1stD.1,TotYd.1,PassY.1,RushY.1,TO.1,Offense,Defense,Sp. Tms,Home_team
+0,1,Sun,12-Sep,W,Detroit Lions,41,33,21,442,311,131,2,31,430,314,116,1,15.48,-5.16,-1.73,San Francisco 49ers
+1,2,Sun,19-Sep,W,Philadelphia Eagles,17,11,23,306,189,117,,18,328,177,151,,7.86,-5.3,2.68,San Francisco 49ers
+2,3,Sun,26-Sep,L,Green Bay Packers,28,30,26,298,231,67,2,21,353,253,100,,12.19,-15.14,0.95,San Francisco 49ers
+3,4,Sun,3-Oct,L,Seattle Seahawks,21,28,23,457,314,143,2,14,234,129,105,,8.61,-2.2,-14.31,San Francisco 49ers
+4,5,Sun,10-Oct,L,Arizona Cardinals,10,17,19,338,186,152,1,20,304,210,94,1,-6.53,-1.74,-0.47,San Francisco 49ers
+5,6,,,,Bye Week,,,,,,,,,,,,,,,,San Francisco 49ers
+6,7,Sun,24-Oct,L,Indianapolis Colts,18,30,13,280,169,111,4,17,295,147,148,2,-15.3,-1.16,4.24,San Francisco 49ers
+7,8,Sun,31-Oct,W,Chicago Bears,33,22,21,467,322,145,,22,324,148,176,1,21.75,-9.87,-2.14,San Francisco 49ers
+8,9,Sun,7-Nov,L,Arizona Cardinals,17,31,22,337,298,39,3,22,437,274,163,,2.1,-17.45,2.39,San Francisco 49ers
+9,10,Mon,15-Nov,W,Los Angeles Rams,31,10,20,335,179,156,,16,278,226,52,2,11.33,7.18,0.7,San Francisco 49ers
+10,11,Sun,21-Nov,W,Jacksonville Jaguars,30,10,25,333,162,171,,14,200,146,54,2,17.86,1.83,0.08,San Francisco 49ers
+11,12,Sun,28-Nov,W,Minnesota Vikings,34,26,23,423,215,208,1,17,323,256,67,2,8.93,4.16,-6.1,San Francisco 49ers
+12,13,Sun,5-Dec,L,Seattle Seahawks,23,30,17,365,294,71,3,21,327,181,146,3,-0.51,-2.27,-3.44,San Francisco 49ers
+13,14,Sun,12-Dec,W,Cincinnati Bengals,26,23,21,355,255,100,,22,397,311,86,2,4.6,-11.63,10.68,San Francisco 49ers
+14,15,Sun,19-Dec,W,Atlanta Falcons,31,13,23,397,235,162,1,13,275,213,62,1,20.53,9.41,-11.46,San Francisco 49ers
+15,16,Thu,23-Dec,L,Tennessee Titans,17,20,22,389,306,83,2,16,278,188,90,,5.48,-2.96,-2.72,San Francisco 49ers
+16,17,Sun,2-Jan,W,Houston Texans,23,7,19,416,241,175,1,15,222,136,86,1,5.7,7.88,0.16,San Francisco 49ers
+17,18,Sun,9-Jan,W,Los Angeles Rams,27,24,23,449,314,135,2,19,265,201,64,2,15.33,-8.42,-3.91,San Francisco 49ers
+18,,,Playoffs,,,,,,,,,,,,,,,,,,San Francisco 49ers
+19,Wild Card,Sun,16-Jan,W,Dallas Cowboys,23,17,21,341,172,169,1,20,307,230,77,1,2.43,5.37,-5.37,San Francisco 49ers
+20,Division,Sat,22-Jan,W,Green Bay Packers,13,10,12,212,106,106,1,14,263,196,67,1,-11.56,4.75,9.07,San Francisco 49ers
+21,Conf. Champ.,Sun,30-Jan,L,Los Angeles Rams,17,20,16,282,232,50,1,25,396,326,70,1,3.75,-10.05,1.12,San Francisco 49ers
+22,1,Sun,12-Sep,L,Los Angeles Rams,14,34,24,322,188,134,2,18,386,312,74,,-0.85,-21.58,0.52,Chicago Bears
+23,2,Sun,19-Sep,W,Cincinnati Bengals,20,17,16,206,83,123,1,14,248,179,69,4,-11.15,16.14,-1.51,Chicago Bears
+24,3,Sun,26-Sep,L,Cleveland Browns,6,26,6,47,1,46,,26,418,203,215,,-19.73,-6.11,2.28,Chicago Bears
+25,4,Sun,3-Oct,W,Detroit Lions,24,14,20,373,185,188,1,23,351,261,90,2,12.01,-1.56,0.02,Chicago Bears
+26,5,Sun,10-Oct,W,Las Vegas Raiders,20,9,19,252,109,143,,16,259,188,71,1,2.39,7.14,2.05,Chicago Bears
+27,6,Sun,17-Oct,L,Green Bay Packers,14,24,21,277,137,140,1,22,323,169,154,,4.93,-14.93,-0.3,Chicago Bears
+28,7,Sun,24-Oct,L,Tampa Bay Buccaneers,3,38,17,311,168,143,5,28,408,226,182,1,-18.58,-16.41,4.77,Chicago Bears
+29,8,Sun,31-Oct,L,San Francisco 49ers,22,33,22,324,148,176,1,21,467,322,145,,9.87,-21.75,2.14,Chicago Bears
+30,9,Mon,8-Nov,L,Pittsburgh Steelers,27,29,20,414,278,136,2,20,280,175,105,1,4.26,-8.46,4.79,Chicago Bears
+31,10,,,,Bye Week,,,,,,,,,,,,,,,,Chicago Bears
+32,11,Sun,21-Nov,L,Baltimore Ravens,13,16,14,353,261,92,1,23,299,176,123,1,0.66,-0.29,-3.41,Chicago Bears
+33,12,Thu,25-Nov,W,Detroit Lions,16,14,21,378,310,68,1,14,239,163,76,1,4.4,2.01,-4.41,Chicago Bears
+34,13,Sun,5-Dec,L,Arizona Cardinals,22,33,26,329,217,112,4,14,257,120,137,,-6.69,-6.68,3.93,Chicago Bears
+35,14,Sun,12-Dec,L,Green Bay Packers,30,45,16,347,210,137,3,27,439,320,119,,-5.6,-23.05,15.19,Chicago Bears
+36,15,Mon,20-Dec,L,Minnesota Vikings,9,17,24,370,255,115,3,13,193,61,132,1,-7.72,4.65,-5.92,Chicago Bears
+37,16,Sun,26-Dec,W,Seattle Seahawks,25,24,26,317,229,88,,18,331,161,170,,7.6,-8.31,3.95,Chicago Bears
+38,17,Sun,2-Jan,W,New York Giants,29,3,17,249,162,87,2,13,155,-6,161,4,-4.47,28.88,1.13,Chicago Bears
+39,18,Sun,9-Jan,L,Minnesota Vikings,17,31,24,356,266,90,2,11,331,227,104,,-12.22,-7.18,1.2,Chicago Bears
+40,1,Sun,12-Sep,W,Minnesota Vikings,27,24,20,366,217,149,,24,403,336,67,1,6.16,-2.9,-1.79,Cincinnati Bengals
+41,2,Sun,19-Sep,L,Chicago Bears,17,20,14,248,179,69,4,16,206,83,123,1,-16.14,11.15,1.51,Cincinnati Bengals
+42,3,Sun,26-Sep,W,Pittsburgh Steelers,24,10,12,268,172,96,1,21,342,297,45,2,0.17,8.46,6.09,Cincinnati Bengals
+43,4,Thu,30-Sep,W,Jacksonville Jaguars,24,21,21,420,342,78,,21,341,202,139,,20.93,-12.38,-6.5,Cincinnati Bengals
+44,5,Sun,10-Oct,L,Green Bay Packers,22,25,18,367,264,103,2,21,466,333,133,1,3.92,-9.92,3.51,Cincinnati Bengals
+45,6,Sun,17-Oct,W,Detroit Lions,34,11,20,398,256,142,1,15,228,192,36,1,16.6,8.89,-0.46,Cincinnati Bengals
+46,7,Sun,24-Oct,W,Baltimore Ravens,41,17,19,520,409,111,1,20,393,278,115,,19.58,2.69,-2.13,Cincinnati Bengals
+47,8,Sun,31-Oct,L,New York Jets,31,34,18,318,277,41,1,32,511,414,97,3,3.26,-8.01,4.33,Cincinnati Bengals
+48,9,Sun,7-Nov,L,Cleveland Browns,16,41,25,348,263,85,3,14,361,208,153,,-15.34,-14.44,4.5,Cincinnati Bengals
+49,10,,,,Bye Week,,,,,,,,,,,,,,,,Cincinnati Bengals
+50,11,Sun,21-Nov,W,Las Vegas Raiders,32,13,23,288,129,159,1,13,278,206,72,2,6.5,6.44,5.53,Cincinnati Bengals
+51,12,Sun,28-Nov,W,Pittsburgh Steelers,41,10,25,370,172,198,1,16,301,250,51,3,14.42,15.89,-0.88,Cincinnati Bengals
+52,13,Sun,5-Dec,L,Los Angeles Chargers,22,41,21,356,260,96,4,18,363,284,79,3,-12.31,-1.98,-1.02,Cincinnati Bengals
+53,14,Sun,12-Dec,L,San Francisco 49ers,23,26,22,397,311,86,2,21,355,255,100,,11.63,-4.6,-10.68,Cincinnati Bengals
+54,15,Sun,19-Dec,W,Denver Broncos,15,10,12,249,136,113,,19,292,159,133,1,-4.53,7.29,5.22,Cincinnati Bengals
+55,16,Sun,26-Dec,W,Baltimore Ravens,41,21,33,575,498,77,,21,334,295,39,1,35.73,-8.62,-4.84,Cincinnati Bengals
+56,17,Sun,2-Jan,W,Kansas City Chiefs,34,31,23,475,415,60,,23,414,259,155,,28.52,-25.13,-1.86,Cincinnati Bengals
+57,18,Sun,9-Jan,L,Cleveland Browns,16,21,11,182,103,79,,24,376,171,205,2,-10.26,-6.01,4.58,Cincinnati Bengals
+58,,,Playoffs,,,,,,,,,,,,,,,,,,Cincinnati Bengals
+59,Wild Card,Sat,15-Jan,W,Las Vegas Raiders,26,19,18,308,225,83,,23,385,282,103,2,7.92,-3.65,1.81,Cincinnati Bengals
+60,Division,Sat,22-Jan,W,Tennessee Titans,19,16,17,345,280,65,1,16,353,213,140,3,-1.17,3.15,4.99,Cincinnati Bengals
+61,Conf. Champ.,Sun,30-Jan,W,Kansas City Chiefs,27,24,21,359,243,116,1,24,375,236,139,2,8.39,-11.28,-0.28,Cincinnati Bengals
+62,SuperBowl,Sun,13-Feb,L,Los Angeles Rams,20,23,15,305,226,79,,17,313,270,43,2,-5.48,-0.42,1.93,Cincinnati Bengals
+63,1,Sun,12-Sep,W,New York Giants,27,13,24,420,255,165,1,19,314,254,60,1,20.31,-3.89,-3.35,Denver Broncos
+64,2,Sun,19-Sep,W,Jacksonville Jaguars,23,13,22,398,302,96,,12,189,114,75,2,13.99,2.8,2.29,Denver Broncos
+65,3,Sun,26-Sep,W,New York Jets,26,0,23,343,223,120,1,11,162,119,43,2,4.68,27.58,-1.98,Denver Broncos
+66,4,Sun,3-Oct,L,Baltimore Ravens,7,23,15,254,148,106,1,20,406,304,102,,-10.92,-3.9,-1.59,Denver Broncos
+67,5,Sun,10-Oct,L,Pittsburgh Steelers,19,27,17,374,268,106,1,19,391,244,147,1,5.37,-11.44,-1.98,Denver Broncos
+68,6,Sun,17-Oct,L,Las Vegas Raiders,24,34,25,421,309,112,4,16,426,340,86,,2.97,-16.95,1.18,Denver Broncos
+69,7,Thu,21-Oct,L,Cleveland Browns,14,17,15,223,182,41,1,23,376,194,182,,4.39,-13.24,1.9,Denver Broncos
+70,8,Sun,31-Oct,W,Washington Football Team,17,10,17,273,190,83,1,21,342,230,112,2,5.1,-1.75,2.71,Denver Broncos
+71,9,Sun,7-Nov,W,Dallas Cowboys,30,16,23,407,217,190,,14,290,212,78,2,12.79,5.92,-1.79,Denver Broncos
+72,10,Sun,14-Nov,L,Philadelphia Eagles,13,30,17,308,212,96,1,22,386,170,216,1,-6.62,-8.45,0.91,Denver Broncos
+73,11,,,,Bye Week,,,,,,,,,,,,,,,,Denver Broncos
+74,12,Sun,28-Nov,W,Los Angeles Chargers,28,13,23,302,155,147,1,20,357,285,72,2,12.16,6.58,1.43,Denver Broncos
+75,13,Sun,5-Dec,L,Kansas City Chiefs,9,22,22,404,250,154,3,15,267,178,89,1,-8.21,4.04,-5.89,Denver Broncos
+76,14,Sun,12-Dec,W,Detroit Lions,38,10,25,358,174,184,,17,316,198,118,2,22.94,4.61,-1.05,Denver Broncos
+77,15,Sun,19-Dec,L,Cincinnati Bengals,10,15,19,292,159,133,1,12,249,136,113,,-7.29,4.53,-5.22,Denver Broncos
+78,16,Sun,26-Dec,L,Las Vegas Raiders,13,17,8,158,140,18,,22,342,182,160,3,-7.14,0.46,2.09,Denver Broncos
+79,17,Sun,2-Jan,L,Los Angeles Chargers,13,34,18,319,236,83,1,21,341,237,104,,-7.8,-15.09,-1,Denver Broncos
+80,18,Sat,8-Jan,L,Kansas City Chiefs,24,28,18,364,173,191,1,28,390,255,135,,4.6,-17.95,5.59,Denver Broncos
+81,1,Sun,12-Sep,L,Kansas City Chiefs,29,33,24,457,304,153,2,21,397,324,73,,20.54,-19.34,0.35,Cleveland Browns
+82,2,Sun,19-Sep,W,Houston Texans,31,21,22,355,199,156,2,17,302,220,82,2,8.22,-9.61,8.62,Cleveland Browns
+83,3,Sun,26-Sep,W,Chicago Bears,26,6,26,418,203,215,,6,47,1,46,,6.11,19.73,-2.28,Cleveland Browns
+84,4,Sun,3-Oct,W,Minnesota Vikings,14,7,20,327,143,184,,16,255,190,65,1,-4.58,7.71,2.13,Cleveland Browns
+85,5,Sun,10-Oct,L,Los Angeles Chargers,42,47,25,531,301,230,,27,493,381,112,1,22.52,-31.81,3.45,Cleveland Browns
+86,6,Sun,17-Oct,L,Arizona Cardinals,14,37,16,290,217,73,3,24,352,208,144,,-10.01,-16.91,1.93,Cleveland Browns
+87,7,Thu,21-Oct,W,Denver Broncos,17,14,23,376,194,182,,15,223,182,41,1,13.24,-4.39,-1.9,Cleveland Browns
+88,8,Sun,31-Oct,L,Pittsburgh Steelers,10,15,19,306,210,96,1,21,370,255,115,,-2.67,-1.77,0.11,Cleveland Browns
+89,9,Sun,7-Nov,W,Cincinnati Bengals,41,16,14,361,208,153,,25,348,263,85,3,14.44,15.34,-4.5,Cleveland Browns
+90,10,Sun,14-Nov,L,New England Patriots,7,45,17,217,118,99,1,30,452,268,184,,-9.48,-31.28,2.69,Cleveland Browns
+91,11,Sun,21-Nov,W,Detroit Lions,13,10,22,349,165,184,2,12,245,77,168,2,4.65,4.39,-6.08,Cleveland Browns
+92,12,Sun,28-Nov,L,Baltimore Ravens,10,16,14,262,222,40,2,22,303,155,148,4,-11.16,7.17,-4.29,Cleveland Browns
+93,13,,,,Bye Week,,,,,,,,,,,,,,,,Cleveland Browns
+94,14,Sun,12-Dec,W,Baltimore Ravens,24,22,20,290,190,100,1,21,389,271,118,2,2.4,8.51,-5.68,Cleveland Browns
+95,15,Mon,20-Dec,L,Las Vegas Raiders,14,16,13,236,147,89,,20,328,230,98,2,1.13,-1.6,-0.2,Cleveland Browns
+96,16,Sat,25-Dec,L,Green Bay Packers,22,24,28,408,189,219,4,19,311,202,109,,9.4,-10.56,-3.89,Cleveland Browns
+97,17,Mon,3-Jan,L,Pittsburgh Steelers,14,26,15,232,139,93,2,20,299,109,190,1,-12.27,-0.38,-4.51,Cleveland Browns
+98,18,Sun,9-Jan,W,Cincinnati Bengals,21,16,24,376,171,205,2,11,182,103,79,,6.01,10.26,-4.58,Cleveland Browns
+99,1,Thu,9-Sep,W,Dallas Cowboys,31,29,24,431,379,52,4,30,451,391,60,1,9.37,-13.67,7.76,Tampa Bay Buccaneers
+100,2,Sun,19-Sep,W,Atlanta Falcons,48,25,21,341,259,82,1,19,348,293,55,3,8.63,15.96,-0.72,Tampa Bay Buccaneers
+101,3,Sun,26-Sep,L,Los Angeles Rams,24,34,27,446,411,35,,22,407,331,76,,15.15,-20.56,-3.43,Tampa Bay Buccaneers
+102,4,Sun,3-Oct,W,New England Patriots,19,17,22,381,261,120,,20,294,295,-1,2,5.45,-0.96,-2.94,Tampa Bay Buccaneers
+103,5,Sun,10-Oct,W,Miami Dolphins,45,17,33,558,437,121,,17,301,262,39,2,40.54,-4.28,-3.08,Tampa Bay Buccaneers
+104,6,Thu,14-Oct,W,Philadelphia Eagles,28,22,27,399,297,102,1,16,213,113,100,1,15.69,-9.52,3.01,Tampa Bay Buccaneers
+105,7,Sun,24-Oct,W,Chicago Bears,38,3,28,408,226,182,1,17,311,168,143,5,16.41,18.58,-4.77,Tampa Bay Buccaneers
+106,8,Sun,31-Oct,L,New Orleans Saints,27,36,16,421,350,71,3,26,361,209,152,,0.98,-12.99,-1.1,Tampa Bay Buccaneers
+107,9,,,,Bye Week,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+108,10,Sun,14-Nov,L,Washington Football Team,19,29,14,273,220,53,2,23,320,226,94,1,3.21,-10.01,-0.67,Tampa Bay Buccaneers
+109,11,Mon,22-Nov,W,New York Giants,30,10,28,402,308,94,1,15,215,149,66,3,10.1,16.38,-4.13,Tampa Bay Buccaneers
+110,12,Sun,28-Nov,W,Indianapolis Colts,38,31,28,359,217,142,2,24,392,285,107,5,16.55,-6.27,-3.35,Tampa Bay Buccaneers
+111,13,Sun,5-Dec,W,Atlanta Falcons,30,17,25,425,368,57,1,21,380,259,121,1,17.18,-5.45,-2.61,Tampa Bay Buccaneers
+112,14,Sun,12-Dec,W,Buffalo Bills,33,27,26,488,351,137,,27,466,293,173,1,18.05,-7.42,-5.48,Tampa Bay Buccaneers
+113,15,Sun,19-Dec,L,New Orleans Saints,0,9,17,302,184,118,2,11,212,151,61,,-13.21,17.46,-10.67,Tampa Bay Buccaneers
+114,16,Sun,26-Dec,W,Carolina Panthers,32,6,21,391,232,159,,16,273,206,67,1,13.01,11.17,-2.95,Tampa Bay Buccaneers
+115,17,Sun,2-Jan,W,New York Jets,28,24,26,467,405,62,1,22,374,224,150,1,17.5,-13.43,0.2,Tampa Bay Buccaneers
+116,18,Sun,9-Jan,W,Carolina Panthers,41,17,21,409,324,85,,18,317,207,110,2,20.33,10.73,-4.03,Tampa Bay Buccaneers
+117,,,Playoffs,,,,,,,,,,,,,,,,,,Tampa Bay Buccaneers
+118,Wild Card,Sun,16-Jan,W,Philadelphia Eagles,31,15,23,349,243,106,,14,339,244,95,3,5.66,6.92,6.69,Tampa Bay Buccaneers
+119,Division,Sun,23-Jan,L,Los Angeles Rams,27,30,20,359,308,51,2,24,428,355,73,4,-4.46,6.76,-6.08,Tampa Bay Buccaneers
+120,1,Sun,12-Sep,L,Pittsburgh Steelers,16,23,22,371,254,117,1,16,252,177,75,,-3.55,0.54,-5.01,Buffalo Bills
+121,2,Sun,19-Sep,W,Miami Dolphins,35,0,21,314,171,143,2,13,216,145,71,3,8.16,24.67,-0.37,Buffalo Bills
+122,3,Sun,26-Sep,W,Washington Football Team,43,21,29,481,359,122,,13,290,212,78,3,20.55,8.27,-7.29,Buffalo Bills
+123,4,Sun,3-Oct,W,Houston Texans,40,0,26,450,251,199,1,6,109,61,48,5,14.54,32.68,-6.4,Buffalo Bills
+124,5,Sun,10-Oct,W,Kansas City Chiefs,38,20,20,436,315,121,,29,392,272,120,4,19.84,1.2,-1.5,Buffalo Bills
+125,6,Mon,18-Oct,L,Tennessee Titans,31,34,28,417,335,82,1,16,362,216,146,1,13.13,-15.97,-0.79,Buffalo Bills
+126,7,,,,Bye Week,,,,,,,,,,,,,,,,Buffalo Bills
+127,8,Sun,31-Oct,W,Miami Dolphins,26,11,24,351,249,102,,16,262,194,68,2,4.52,8.74,1.89,Buffalo Bills
+128,9,Sun,7-Nov,L,Jacksonville Jaguars,6,9,17,301,229,72,3,16,218,139,79,1,-12.53,8.4,-1.32,Buffalo Bills
+129,10,Sun,14-Nov,W,New York Jets,45,17,26,489,350,139,2,22,366,296,70,5,22.44,5.27,-0.62,Buffalo Bills
+130,11,Sun,21-Nov,L,Indianapolis Colts,15,41,19,311,220,91,4,28,370,106,264,,2.8,-20.21,-6.78,Buffalo Bills
+131,12,Thu,25-Nov,W,New Orleans Saints,31,6,21,361,248,113,2,12,190,146,44,1,11.92,15.07,0.25,Buffalo Bills
+132,13,Mon,6-Dec,L,New England Patriots,10,14,16,230,131,99,1,11,241,19,222,1,-7.94,1.79,0.85,Buffalo Bills
+133,14,Sun,12-Dec,L,Tampa Bay Buccaneers,27,33,27,466,293,173,1,26,488,351,137,,7.42,-18.05,5.48,Buffalo Bills
+134,15,Sun,19-Dec,W,Carolina Panthers,31,14,21,312,193,119,1,19,275,124,151,1,9.55,11.11,-1.29,Buffalo Bills
+135,16,Sun,26-Dec,W,New England Patriots,33,21,28,428,314,114,,20,288,139,149,2,19.09,-9.37,-1.08,Buffalo Bills
+136,17,Sun,2-Jan,W,Atlanta Falcons,29,15,28,351,118,233,3,18,265,169,96,1,12.95,1.07,-1.41,Buffalo Bills
+137,18,Sun,9-Jan,W,New York Jets,27,10,25,424,254,170,,4,53,5,48,,8.18,23.07,-14.05,Buffalo Bills
+138,,,Playoffs,,,,,,,,,,,,,,,,,,Buffalo Bills
+139,Wild Card,Sat,15-Jan,W,New England Patriots,47,17,29,482,308,174,,20,305,216,89,2,40.37,-9.53,-1.53,Buffalo Bills
+140,Division,Sun,23-Jan,L,Kansas City Chiefs,36,42,23,422,313,109,,30,552,370,182,,25.24,-32.62,-1.15,Buffalo Bills
+141,1,Sun,12-Sep,W,Tennessee Titans,38,13,22,416,280,136,1,17,248,162,86,3,8.83,14.48,1.57,Arizona Cardinals
+142,2,Sun,19-Sep,W,Minnesota Vikings,34,33,21,474,371,103,2,22,419,242,177,,11.99,-12.56,0.9,Arizona Cardinals
+143,3,Sun,26-Sep,W,Jacksonville Jaguars,31,19,23,407,316,91,1,20,361,202,159,4,13.26,7.87,-9.13,Arizona Cardinals
+144,4,Sun,3-Oct,W,Los Angeles Rams,37,20,27,465,249,216,,24,401,280,121,2,21.72,-8.94,2.64,Arizona Cardinals
+145,5,Sun,10-Oct,W,San Francisco 49ers,17,10,20,304,210,94,1,19,338,186,152,1,1.74,6.53,0.47,Arizona Cardinals
+146,6,Sun,17-Oct,W,Cleveland Browns,37,14,24,352,208,144,,16,290,217,73,3,16.91,10.01,-1.93,Arizona Cardinals
+147,7,Sun,24-Oct,W,Houston Texans,31,5,24,397,225,172,1,8,160,118,42,1,13.37,23.71,-10.47,Arizona Cardinals
+148,8,Thu,28-Oct,L,Green Bay Packers,21,24,22,334,260,74,3,24,335,184,151,,9.86,-7.88,-6.65,Arizona Cardinals
+149,9,Sun,7-Nov,W,San Francisco 49ers,31,17,22,437,274,163,,22,337,298,39,3,17.45,-2.1,-2.39,Arizona Cardinals
+150,10,Sun,14-Nov,L,Carolina Panthers,10,34,11,169,104,65,2,24,341,175,166,2,-19.35,-2.27,-1.02,Arizona Cardinals
+151,11,Sun,21-Nov,W,Seattle Seahawks,23,13,29,413,318,95,,16,266,180,86,,17.7,1.84,-8.6,Arizona Cardinals
+152,12,,,,Bye Week,,,,,,,,,,,,,,,,Arizona Cardinals
+153,13,Sun,5-Dec,W,Chicago Bears,33,22,14,257,120,137,,26,329,217,112,4,6.68,6.69,-3.93,Arizona Cardinals
+154,14,Mon,13-Dec,L,Los Angeles Rams,23,30,22,447,344,103,2,18,356,267,89,,0.66,-13.49,3.55,Arizona Cardinals
+155,15,Sun,19-Dec,L,Detroit Lions,12,30,23,398,293,105,1,22,338,212,126,1,-3.11,-9.87,-1.31,Arizona Cardinals
+156,16,Sat,25-Dec,L,Indianapolis Colts,16,22,20,378,245,133,,20,346,220,126,,6.97,-2.37,-6.29,Arizona Cardinals
+157,17,Sun,2-Jan,W,Dallas Cowboys,25,22,23,399,272,127,,19,301,256,45,1,12.86,-6.87,-1.06,Arizona Cardinals
+158,18,Sun,9-Jan,L,Seattle Seahawks,30,38,20,305,187,118,1,19,431,229,202,2,0.21,-12.83,1.02,Arizona Cardinals
+159,,,Playoffs,,,,,,,,,,,,,,,,,,Arizona Cardinals
+160,Wild Card,Mon,17-Jan,L,Los Angeles Rams,11,34,14,183,122,61,2,16,375,235,140,,-17.81,-11.41,3.99,Arizona Cardinals
+161,1,Sun,12-Sep,W,Washington Football Team,20,16,27,424,334,90,2,15,259,133,126,1,9.45,-1.45,-1.24,Los Angeles Chargers
+162,2,Sun,19-Sep,L,Dallas Cowboys,17,20,24,408,313,95,2,25,419,221,198,1,5.55,-17.5,-1.81,Los Angeles Chargers
+163,3,Sun,26-Sep,W,Kansas City Chiefs,30,24,21,352,275,77,,33,437,251,186,4,16.65,-9.49,-3.01,Los Angeles Chargers
+164,4,Mon,4-Oct,W,Las Vegas Raiders,28,14,25,380,212,168,,13,213,165,48,1,11.99,7.95,-2.22,Los Angeles Chargers
+165,5,Sun,10-Oct,W,Cleveland Browns,47,42,27,493,381,112,1,25,531,301,230,,31.81,-22.52,-3.45,Los Angeles Chargers
+166,6,Sun,17-Oct,L,Baltimore Ravens,6,34,14,208,182,26,1,27,327,140,187,2,-13.93,-7.5,-4.48,Los Angeles Chargers
+167,7,,,,Bye Week,,,,,,,,,,,,,,,,Los Angeles Chargers
+168,8,Sun,31-Oct,L,New England Patriots,24,27,17,369,206,163,2,21,352,210,142,1,1.35,1.47,-9.98,Los Angeles Chargers
+169,9,Sun,7-Nov,W,Philadelphia Eagles,27,24,28,445,356,89,,20,331,155,176,,20.72,-17.56,-1.49,Los Angeles Chargers
+170,10,Sun,14-Nov,L,Minnesota Vikings,20,27,20,253,171,82,1,24,381,278,103,1,3.95,-8.75,-2.56,Los Angeles Chargers
+171,11,Sun,21-Nov,W,Pittsburgh Steelers,41,37,33,533,374,159,1,22,300,245,55,,20.68,-7.04,-7.92,Los Angeles Chargers
+172,12,Sun,28-Nov,L,Denver Broncos,13,28,20,357,285,72,2,23,302,155,147,1,-6.58,-12.16,-1.43,Los Angeles Chargers
+173,13,Sun,5-Dec,W,Cincinnati Bengals,41,22,18,363,284,79,3,21,356,260,96,4,1.98,12.31,1.02,Los Angeles Chargers
+174,14,Sun,12-Dec,W,New York Giants,37,21,26,423,271,152,,20,316,181,135,2,18.32,0.24,-3.58,Los Angeles Chargers
+175,15,Thu,16-Dec,L,Kansas City Chiefs,28,34,28,428,236,192,2,26,496,410,86,2,6.23,-13.18,1.57,Los Angeles Chargers
+176,16,Sun,26-Dec,L,Houston Texans,29,41,25,417,328,89,3,26,437,248,189,,5.49,-24.35,2.75,Los Angeles Chargers
+177,17,Sun,2-Jan,W,Denver Broncos,34,13,21,341,237,104,,18,319,236,83,1,15.09,7.8,1,Los Angeles Chargers
+178,18,Sun,9-Jan,L,Las Vegas Raiders,32,35,27,440,355,85,2,24,346,172,174,,16.16,-11.13,-8.69,Los Angeles Chargers
+179,1,Sun,12-Sep,W,Cleveland Browns,33,29,21,397,324,73,,24,457,304,153,2,19.34,-20.54,-0.35,Kansas City Chiefs
+180,2,Sun,19-Sep,L,Baltimore Ravens,35,36,22,405,343,62,2,31,481,230,251,2,15.89,-16.88,1.01,Kansas City Chiefs
+181,3,Sun,26-Sep,L,Los Angeles Chargers,24,30,33,437,251,186,4,21,352,275,77,,9.49,-16.65,3.01,Kansas City Chiefs
+182,4,Sun,3-Oct,W,Philadelphia Eagles,42,30,31,471,271,200,1,30,461,358,103,,34.67,-21.32,-0.7,Kansas City Chiefs
+183,5,Sun,10-Oct,L,Buffalo Bills,20,38,29,392,272,120,4,20,436,315,121,,-1.2,-19.84,1.5,Kansas City Chiefs
+184,6,Sun,17-Oct,W,Washington Football Team,31,13,29,499,390,109,3,15,276,182,94,2,9.15,5.66,1.44,Kansas City Chiefs
+185,7,Sun,24-Oct,L,Tennessee Titans,3,27,22,334,257,77,3,24,369,266,103,1,-7.62,-15.54,-0.06,Kansas City Chiefs
+186,8,Mon,1-Nov,W,New York Giants,20,17,29,368,261,107,2,18,300,228,72,1,2.01,2.3,2.73,Kansas City Chiefs
+187,9,Sun,7-Nov,W,Green Bay Packers,13,7,14,237,160,77,,19,301,179,122,2,-6.84,0.97,12.35,Kansas City Chiefs
+188,10,Sun,14-Nov,W,Las Vegas Raiders,41,14,29,516,422,94,1,15,299,249,50,2,34.37,1.08,-7.21,Kansas City Chiefs
+189,11,Sun,21-Nov,W,Dallas Cowboys,19,9,22,370,244,126,2,16,276,194,82,3,-2.37,15.89,-5.44,Kansas City Chiefs
+190,12,,,,Bye Week,,,,,,,,,,,,,,,,Kansas City Chiefs
+191,13,Sun,5-Dec,W,Denver Broncos,22,9,15,267,178,89,1,22,404,250,154,3,-4.04,8.21,5.89,Kansas City Chiefs
+192,14,Sun,12-Dec,W,Las Vegas Raiders,48,9,21,372,240,132,,19,290,246,44,5,25.7,9.74,1.07,Kansas City Chiefs
+193,15,Thu,16-Dec,W,Los Angeles Chargers,34,28,26,496,410,86,2,28,428,236,192,2,13.18,-6.23,-1.57,Kansas City Chiefs
+194,16,Sun,26-Dec,W,Pittsburgh Steelers,36,10,25,381,254,127,,20,303,173,130,3,16.97,6.16,-2.77,Kansas City Chiefs
+195,17,Sun,2-Jan,L,Cincinnati Bengals,31,34,23,414,259,155,,23,475,415,60,,25.13,-28.52,1.86,Kansas City Chiefs
+196,18,Sat,8-Jan,W,Denver Broncos,28,24,28,390,255,135,,18,364,173,191,1,17.95,-4.6,-5.59,Kansas City Chiefs
+197,,,Playoffs,,,,,,,,,,,,,,,,,,Kansas City Chiefs
+198,Wild Card,Sun,16-Jan,W,Pittsburgh Steelers,42,21,26,478,372,106,2,19,257,201,56,1,16.09,2.06,-0.99,Kansas City Chiefs
+199,Division,Sun,23-Jan,W,Buffalo Bills,42,36,30,552,370,182,,23,422,313,109,,32.62,-25.24,1.15,Kansas City Chiefs
+200,Conf. Champ.,Sun,30-Jan,L,Cincinnati Bengals,24,27,24,375,236,139,2,21,359,243,116,1,11.28,-8.39,0.28,Kansas City Chiefs
+201,1,Sun,12-Sep,L,Seattle Seahawks,16,28,23,336,223,113,1,18,381,241,140,1,3.07,-14.35,0.51,Indianapolis Colts
+202,2,Sun,19-Sep,L,Los Angeles Rams,24,27,22,354,245,109,2,21,371,270,101,2,1.29,-7.11,3.09,Indianapolis Colts
+203,3,Sun,26-Sep,L,Tennessee Titans,16,25,19,265,178,87,,24,368,188,180,3,3.98,-7.29,-4.86,Indianapolis Colts
+204,4,Sun,3-Oct,W,Miami Dolphins,27,17,20,349,210,139,1,13,203,168,35,2,8.09,1.62,4.01,Indianapolis Colts
+205,5,Mon,11-Oct,L,Baltimore Ravens,25,31,29,513,390,123,1,30,523,437,86,1,24,-21.15,-6.85,Indianapolis Colts
+206,6,Sun,17-Oct,W,Houston Texans,31,3,15,388,214,174,,19,353,229,124,3,17.25,9.92,-0.25,Indianapolis Colts
+207,7,Sun,24-Oct,W,San Francisco 49ers,30,18,17,295,147,148,2,13,280,169,111,4,1.16,15.3,-4.24,Indianapolis Colts
+208,8,Sun,31-Oct,L,Tennessee Titans,31,34,24,307,224,83,3,18,340,247,93,2,3.55,-5.81,-0.74,Indianapolis Colts
+209,9,Thu,4-Nov,W,New York Jets,45,30,28,532,272,260,,30,486,398,88,2,32.44,-17.45,0.23,Indianapolis Colts
+210,10,Sun,14-Nov,W,Jacksonville Jaguars,23,17,15,295,168,127,,15,331,152,179,1,-4.81,4.43,6.79,Indianapolis Colts
+211,11,Sun,21-Nov,W,Buffalo Bills,41,15,28,370,106,264,,19,311,220,91,4,20.21,-2.8,6.78,Indianapolis Colts
+212,12,Sun,28-Nov,L,Tampa Bay Buccaneers,31,38,24,392,285,107,5,28,359,217,142,2,6.27,-16.55,3.35,Indianapolis Colts
+213,13,Sun,5-Dec,W,Houston Texans,31,0,26,389,151,238,1,9,141,57,84,2,12.97,28.83,-9.16,Indianapolis Colts
+214,14,,,,Bye Week,,,,,,,,,,,,,,,,Indianapolis Colts
+215,15,Sat,18-Dec,W,New England Patriots,27,17,15,275,49,226,1,20,365,284,81,2,3.63,2.77,4.16,Indianapolis Colts
+216,16,Sat,25-Dec,W,Arizona Cardinals,22,16,20,346,220,126,,20,378,245,133,,2.37,-6.97,6.29,Indianapolis Colts
+217,17,Sun,2-Jan,L,Las Vegas Raiders,20,23,16,262,140,122,,18,326,241,85,2,4.03,-5.02,-3.28,Indianapolis Colts
+218,18,Sun,9-Jan,L,Jacksonville Jaguars,11,26,13,233,139,94,2,19,318,217,101,,-12.44,-7.68,3.66,Indianapolis Colts
+219,1,Thu,9-Sep,L,Tampa Bay Buccaneers,29,31,30,451,391,60,1,24,431,379,52,4,13.67,-9.37,-7.76,Dallas Cowboys
+220,2,Sun,19-Sep,W,Los Angeles Chargers,20,17,25,419,221,198,1,24,408,313,95,2,17.5,-5.55,1.81,Dallas Cowboys
+221,3,Mon,27-Sep,W,Philadelphia Eagles,41,21,27,380,220,160,1,12,367,303,64,2,9.13,11.19,-0.01,Dallas Cowboys
+222,4,Sun,3-Oct,W,Carolina Panthers,36,28,24,433,188,245,,24,379,266,113,2,19.39,-10.49,1.46,Dallas Cowboys
+223,5,Sun,10-Oct,W,New York Giants,44,20,26,515,314,201,2,20,367,294,73,2,20.79,2.65,2.08,Dallas Cowboys
+224,6,Sun,17-Oct,W,New England Patriots,35,29,32,567,445,122,2,17,335,215,120,2,9.87,-0.65,-0.9,Dallas Cowboys
+225,7,,,,Bye Week,,,,,,,,,,,,,,,,Dallas Cowboys
+226,8,Sun,31-Oct,W,Minnesota Vikings,20,16,23,419,341,78,2,17,278,177,101,,6.74,2.03,-6.34,Dallas Cowboys
+227,9,Sun,7-Nov,L,Denver Broncos,16,30,14,290,212,78,2,23,407,217,190,,-5.92,-12.79,1.79,Dallas Cowboys
+228,10,Sun,14-Nov,W,Atlanta Falcons,43,3,22,431,317,114,1,11,214,111,103,3,16.18,22.4,1.92,Dallas Cowboys
+229,11,Sun,21-Nov,L,Kansas City Chiefs,9,19,16,276,194,82,3,22,370,244,126,2,-15.89,2.37,5.44,Dallas Cowboys
+230,12,Thu,25-Nov,L,Las Vegas Raiders,33,36,23,437,373,64,,28,509,366,143,,9.66,-18.14,3.08,Dallas Cowboys
+231,13,Thu,2-Dec,W,New Orleans Saints,27,17,17,377,231,146,1,17,405,252,153,4,-3.59,9.41,5.15,Dallas Cowboys
+232,14,Sun,12-Dec,W,Washington Football Team,27,20,19,323,201,122,2,14,224,124,100,4,-12.16,25.49,-2.14,Dallas Cowboys
+233,15,Sun,19-Dec,W,New York Giants,21,6,23,328,203,125,1,15,302,178,124,4,5.96,14.75,-7.36,Dallas Cowboys
+234,16,Sun,26-Dec,W,Washington Football Team,56,14,28,497,389,108,,14,257,172,85,2,31.3,10.62,0.47,Dallas Cowboys
+235,17,Sun,2-Jan,L,Arizona Cardinals,22,25,19,301,256,45,1,23,399,272,127,,6.87,-12.86,1.06,Dallas Cowboys
+236,18,Sat,8-Jan,W,Philadelphia Eagles,51,26,22,475,304,171,,22,315,166,149,1,33.93,-6.82,-3,Dallas Cowboys
+237,,,Playoffs,,,,,,,,,,,,,,,,,,Dallas Cowboys
+238,Wild Card,Sun,16-Jan,L,San Francisco 49ers,17,23,20,307,230,77,1,21,341,172,169,1,-5.37,-2.43,5.37,Dallas Cowboys
+239,1,Sun,12-Sep,W,New England Patriots,17,16,16,259,185,74,1,24,393,268,125,2,-0.74,-5.75,6.05,Miami Dolphins
+240,2,Sun,19-Sep,L,Buffalo Bills,0,35,13,216,145,71,3,21,314,171,143,2,-24.67,-8.16,0.37,Miami Dolphins
+241,3,Sun,26-Sep,L,Las Vegas Raiders,28,31,22,330,197,133,,28,497,357,140,1,5.04,-7.21,-0.43,Miami Dolphins
+242,4,Sun,3-Oct,L,Indianapolis Colts,17,27,13,203,168,35,2,20,349,210,139,1,-1.62,-8.09,-4.01,Miami Dolphins
+243,5,Sun,10-Oct,L,Tampa Bay Buccaneers,17,45,17,301,262,39,2,33,558,437,121,,4.28,-40.54,3.08,Miami Dolphins
+244,6,Sun,17-Oct,L,Jacksonville Jaguars,20,23,23,431,354,77,1,21,396,312,84,1,6.22,-4.44,-2.72,Miami Dolphins
+245,7,Sun,24-Oct,L,Atlanta Falcons,28,30,27,413,281,132,2,21,397,325,72,2,10.04,-10.55,-0.22,Miami Dolphins
+246,8,Sun,31-Oct,L,Buffalo Bills,11,26,16,262,194,68,2,24,351,249,102,,-8.74,-4.52,-1.89,Miami Dolphins
+247,9,Sun,7-Nov,W,Houston Texans,17,9,22,262,215,47,5,14,272,199,73,4,-8.14,19.43,-4.21,Miami Dolphins
+248,10,Thu,11-Nov,W,Baltimore Ravens,22,10,17,350,290,60,,23,304,210,94,2,-4.72,13.81,0.84,Miami Dolphins
+249,11,Sun,21-Nov,W,New York Jets,24,17,20,388,273,115,1,18,380,278,102,1,13.14,-5.03,0.94,Miami Dolphins
+250,12,Sun,28-Nov,W,Carolina Panthers,33,10,22,315,204,111,1,10,198,134,64,3,1.89,17.24,2.85,Miami Dolphins
+251,13,Sun,5-Dec,W,New York Giants,20,9,19,297,229,68,,16,250,159,91,1,1.6,6.39,3.32,Miami Dolphins
+252,14,,,,Bye Week,,,,,,,,,,,,,,,,Miami Dolphins
+253,15,Sun,19-Dec,W,New York Jets,31,24,23,379,196,183,3,16,228,126,102,1,2.65,6.38,-1.79,Miami Dolphins
+254,16,Mon,27-Dec,W,New Orleans Saints,20,3,16,259,173,86,1,10,164,81,83,2,-3.16,24.8,-3.21,Miami Dolphins
+255,17,Sun,2-Jan,L,Tennessee Titans,3,34,16,256,182,74,2,17,308,110,198,,-14.86,-7.95,-6.05,Miami Dolphins
+256,18,Sun,9-Jan,W,New England Patriots,33,24,23,298,103,195,,21,379,245,134,3,9.83,-1.93,8.66,Miami Dolphins
+257,1,Sun,12-Sep,W,Atlanta Falcons,32,6,24,434,261,173,,19,260,136,124,,13.14,12.48,-2.36,Philadelphia Eagles
+258,2,Sun,19-Sep,L,San Francisco 49ers,11,17,18,328,177,151,,23,306,189,117,,5.3,-7.86,-2.68,Philadelphia Eagles
+259,3,Mon,27-Sep,L,Dallas Cowboys,21,41,12,367,303,64,2,27,380,220,160,1,-11.19,-9.13,0.01,Philadelphia Eagles
+260,4,Sun,3-Oct,L,Kansas City Chiefs,30,42,30,461,358,103,,31,471,271,200,1,21.32,-34.67,0.7,Philadelphia Eagles
+261,5,Sun,10-Oct,W,Carolina Panthers,21,18,15,273,182,91,2,17,267,158,109,3,-15.13,16.27,3.99,Philadelphia Eagles
+262,6,Thu,14-Oct,L,Tampa Bay Buccaneers,22,28,16,213,113,100,1,27,399,297,102,1,9.52,-15.69,-3.01,Philadelphia Eagles
+263,7,Sun,24-Oct,L,Las Vegas Raiders,22,33,22,358,223,135,2,23,442,323,119,1,4.67,-18,-1.38,Philadelphia Eagles
+264,8,Sun,31-Oct,W,Detroit Lions,44,6,27,350,114,236,,15,228,171,57,1,18.7,17.4,1.69,Philadelphia Eagles
+265,9,Sun,7-Nov,L,Los Angeles Chargers,24,27,20,331,155,176,,28,445,356,89,,17.56,-20.72,1.49,Philadelphia Eagles
+266,10,Sun,14-Nov,W,Denver Broncos,30,13,22,386,170,216,1,17,308,212,96,1,8.45,6.62,-0.91,Philadelphia Eagles
+267,11,Sun,21-Nov,W,New Orleans Saints,40,29,21,380,138,242,1,18,323,214,109,3,0.6,9.01,4.11,Philadelphia Eagles
+268,12,Sun,28-Nov,L,New York Giants,7,13,19,332,124,208,4,17,264,194,70,,-9.73,0.39,3.28,Philadelphia Eagles
+269,13,Sun,5-Dec,W,New York Jets,33,18,26,418,233,185,,21,281,211,70,1,22.38,-6.13,-1.78,Philadelphia Eagles
+270,14,,,,Bye Week,,,,,,,,,,,,,,,,Philadelphia Eagles
+271,15,Tue,21-Dec,W,Washington Football Team,27,17,23,519,281,238,2,14,237,174,63,,13.15,0.64,-5.36,Philadelphia Eagles
+272,16,Sun,26-Dec,W,New York Giants,34,10,17,324,194,130,,15,192,108,84,2,4.97,17.66,-0.73,Philadelphia Eagles
+273,17,Sun,2-Jan,W,Washington Football Team,20,16,18,330,212,118,,24,312,218,94,1,9.44,-2.61,-2.02,Philadelphia Eagles
+274,18,Sat,8-Jan,L,Dallas Cowboys,26,51,22,315,166,149,1,22,475,304,171,,6.82,-33.93,3,Philadelphia Eagles
+275,,,Playoffs,,,,,,,,,,,,,,,,,,Philadelphia Eagles
+276,Wild Card,Sun,16-Jan,L,Tampa Bay Buccaneers,15,31,14,339,244,95,3,23,349,243,106,,-6.92,-5.66,-6.69,Philadelphia Eagles
+277,1,Sun,12-Sep,L,Philadelphia Eagles,6,32,19,260,136,124,,24,434,261,173,,-12.48,-13.14,2.36,Atlanta Falcons
+278,2,Sun,19-Sep,L,Tampa Bay Buccaneers,25,48,19,348,293,55,3,21,341,259,82,1,-15.96,-8.63,0.72,Atlanta Falcons
+279,3,Sun,26-Sep,W,New York Giants,17,14,18,296,227,69,1,21,346,246,100,1,2.1,-2.33,3.38,Atlanta Falcons
+280,4,Sun,3-Oct,L,Washington Football Team,30,34,24,374,275,99,,26,412,290,122,,19.36,-18.15,-3.26,Atlanta Falcons
+281,5,Sun,10-Oct,W,New York Jets,27,20,28,450,342,108,2,17,230,166,64,1,17.36,-3.2,-4.18,Atlanta Falcons
+282,6,,,,Bye Week,,,,,,,,,,,,,,,,Atlanta Falcons
+283,7,Sun,24-Oct,W,Miami Dolphins,30,28,21,397,325,72,2,27,413,281,132,2,10.55,-10.04,0.22,Atlanta Falcons
+284,8,Sun,31-Oct,L,Carolina Panthers,13,19,17,213,131,82,2,21,332,129,203,1,-2.84,-0.86,-4.14,Atlanta Falcons
+285,9,Sun,7-Nov,W,New Orleans Saints,27,25,18,366,332,34,,26,376,267,109,1,7.33,-1.35,-3.25,Atlanta Falcons
+286,10,Sun,14-Nov,L,Dallas Cowboys,3,43,11,214,111,103,3,22,431,317,114,1,-22.4,-16.18,-1.92,Atlanta Falcons
+287,11,Thu,18-Nov,L,New England Patriots,0,25,11,165,125,40,4,20,308,174,134,1,-25.53,0.69,-2.44,Atlanta Falcons
+288,12,Sun,28-Nov,W,Jacksonville Jaguars,21,14,21,332,183,149,1,20,357,216,141,2,6.47,0.52,1.5,Atlanta Falcons
+289,13,Sun,5-Dec,L,Tampa Bay Buccaneers,17,30,21,380,259,121,1,25,425,368,57,1,5.45,-17.18,2.61,Atlanta Falcons
+290,14,Sun,12-Dec,W,Carolina Panthers,29,21,20,318,190,128,1,21,334,243,91,3,4.15,5.38,1.74,Atlanta Falcons
+291,15,Sun,19-Dec,L,San Francisco 49ers,13,31,13,275,213,62,1,23,397,235,162,1,-9.41,-20.53,11.46,Atlanta Falcons
+292,16,Sun,26-Dec,W,Detroit Lions,20,16,14,254,207,47,1,19,338,208,130,1,5.42,-6.56,2.23,Atlanta Falcons
+293,17,Sun,2-Jan,L,Buffalo Bills,15,29,18,265,169,96,1,28,351,118,233,3,-1.07,-12.95,1.41,Atlanta Falcons
+294,18,Sun,9-Jan,L,New Orleans Saints,20,30,13,257,195,62,3,22,369,174,195,,-6.88,-12.23,10.23,Atlanta Falcons
+295,1,Sun,12-Sep,L,Denver Broncos,13,27,19,314,254,60,1,24,420,255,165,1,3.89,-20.31,3.35,New York Giants
+296,2,Thu,16-Sep,L,Washington Football Team,29,30,21,391,228,163,,25,407,320,87,1,10.45,-12.19,0.6,New York Giants
+297,3,Sun,26-Sep,L,Atlanta Falcons,14,17,21,346,246,100,1,18,296,227,69,1,2.33,-2.1,-3.38,New York Giants
+298,4,Sun,3-Oct,W,New Orleans Saints,27,21,21,485,402,83,1,21,405,235,170,1,15.58,-9,-1.58,New York Giants
+299,5,Sun,10-Oct,L,Dallas Cowboys,20,44,20,367,294,73,2,26,515,314,201,2,-2.65,-20.79,-2.08,New York Giants
+300,6,Sun,17-Oct,L,Los Angeles Rams,11,38,21,261,201,60,4,22,365,234,131,2,-19.06,-7.63,0.96,New York Giants
+301,7,Sun,24-Oct,W,Carolina Panthers,25,3,21,302,199,103,,11,173,117,56,1,-3.21,22.46,2.91,New York Giants
+302,8,Mon,1-Nov,L,Kansas City Chiefs,17,20,18,300,228,72,1,29,368,261,107,2,-2.3,-2.01,-2.73,New York Giants
+303,9,Sun,7-Nov,W,Las Vegas Raiders,23,16,16,247,98,149,1,24,403,286,117,3,0.51,1.72,5.84,New York Giants
+304,10,,,,Bye Week,,,,,,,,,,,,,,,,New York Giants
+305,11,Mon,22-Nov,L,Tampa Bay Buccaneers,10,30,15,215,149,66,3,28,402,308,94,1,-16.38,-10.1,4.13,New York Giants
+306,12,Sun,28-Nov,W,Philadelphia Eagles,13,7,17,264,194,70,,19,332,124,208,4,-0.39,9.73,-3.28,New York Giants
+307,13,Sun,5-Dec,L,Miami Dolphins,9,20,16,250,159,91,1,19,297,229,68,,-6.39,-1.6,-3.32,New York Giants
+308,14,Sun,12-Dec,L,Los Angeles Chargers,21,37,20,316,181,135,2,26,423,271,152,,-0.24,-18.32,3.58,New York Giants
+309,15,Sun,19-Dec,L,Dallas Cowboys,6,21,15,302,178,124,4,23,328,203,125,1,-14.75,-5.96,7.36,New York Giants
+310,16,Sun,26-Dec,L,Philadelphia Eagles,10,34,15,192,108,84,2,17,324,194,130,,-17.66,-4.97,0.73,New York Giants
+311,17,Sun,2-Jan,L,Chicago Bears,3,29,13,155,-6,161,4,17,249,162,87,2,-28.88,4.47,-1.13,New York Giants
+312,18,Sun,9-Jan,L,Washington Football Team,7,22,10,177,83,94,3,16,325,99,226,,-20.98,-0.23,7.21,New York Giants
+313,1,Sun,12-Sep,L,Houston Texans,21,37,20,395,319,76,3,22,449,289,160,,-1.54,-14.76,0.16,Jacksonville Jaguars
+314,2,Sun,19-Sep,L,Denver Broncos,13,23,12,189,114,75,2,22,398,302,96,,-2.8,-13.99,-2.29,Jacksonville Jaguars
+315,3,Sun,26-Sep,L,Arizona Cardinals,19,31,20,361,202,159,4,23,407,316,91,1,-7.87,-13.26,9.13,Jacksonville Jaguars
+316,4,Thu,30-Sep,L,Cincinnati Bengals,21,24,21,341,202,139,,21,420,342,78,,12.38,-20.93,6.5,Jacksonville Jaguars
+317,5,Sun,10-Oct,L,Tennessee Titans,19,37,24,454,256,198,2,23,368,184,184,,3.06,-17.49,-2.3,Jacksonville Jaguars
+318,6,Sun,17-Oct,W,Miami Dolphins,23,20,21,396,312,84,1,23,431,354,77,1,4.44,-6.22,2.72,Jacksonville Jaguars
+319,7,,,,Bye Week,,,,,,,,,,,,,,,,Jacksonville Jaguars
+320,8,Sun,31-Oct,L,Seattle Seahawks,7,31,20,309,227,82,1,17,229,160,69,,-6.73,-7.46,-7.41,Jacksonville Jaguars
+321,9,Sun,7-Nov,W,Buffalo Bills,9,6,16,218,139,79,1,17,301,229,72,3,-8.4,12.53,1.32,Jacksonville Jaguars
+322,10,Sun,14-Nov,L,Indianapolis Colts,17,23,15,331,152,179,1,15,295,168,127,,-4.43,4.81,-6.79,Jacksonville Jaguars
+323,11,Sun,21-Nov,L,San Francisco 49ers,10,30,14,200,146,54,2,25,333,162,171,,-1.83,-17.86,-0.08,Jacksonville Jaguars
+324,12,Sun,28-Nov,L,Atlanta Falcons,14,21,20,357,216,141,2,21,332,183,149,1,-0.52,-6.47,-1.5,Jacksonville Jaguars
+325,13,Sun,5-Dec,L,Los Angeles Rams,7,37,14,197,136,61,2,24,418,290,128,,-12.55,-21.19,3.25,Jacksonville Jaguars
+326,14,Sun,12-Dec,L,Tennessee Titans,0,20,9,192,184,8,4,22,263,161,102,,-18.9,-2.55,4.47,Jacksonville Jaguars
+327,15,Sun,19-Dec,L,Houston Texans,16,30,21,296,189,107,,13,281,206,75,1,-1.9,0.77,-10.61,Jacksonville Jaguars
+328,16,Sun,26-Dec,L,New York Jets,21,26,27,384,252,132,1,18,373,100,273,,8.72,-10.13,-4.81,Jacksonville Jaguars
+329,17,Sun,2-Jan,L,New England Patriots,10,50,11,253,173,80,3,32,471,290,181,,-11.33,-32.81,3.4,Jacksonville Jaguars
+330,18,Sun,9-Jan,W,Indianapolis Colts,26,11,19,318,217,101,,13,233,139,94,2,7.68,12.44,-3.66,Jacksonville Jaguars
+331,1,Sun,12-Sep,L,Carolina Panthers,14,19,16,252,207,45,1,18,381,270,111,1,-10,-1.31,3.49,New York Jets
+332,2,Sun,19-Sep,L,New England Patriots,6,25,18,336,184,152,4,17,260,159,101,,-12.66,-0.24,-3.52,New York Jets
+333,3,Sun,26-Sep,L,Denver Broncos,0,26,11,162,119,43,2,23,343,223,120,1,-27.58,-4.68,1.98,New York Jets
+334,4,Sun,3-Oct,W,Tennessee Titans,27,24,16,355,289,66,1,30,430,253,177,,8.42,-2.8,-0.71,New York Jets
+335,5,Sun,10-Oct,L,Atlanta Falcons,20,27,17,230,166,64,1,28,450,342,108,2,3.2,-17.36,4.18,New York Jets
+336,6,,,,Bye Week,,,,,,,,,,,,,,,,New York Jets
+337,7,Sun,24-Oct,L,New England Patriots,13,54,18,299,237,62,3,32,551,403,148,,-5.92,-37.61,-0.06,New York Jets
+338,8,Sun,31-Oct,W,Cincinnati Bengals,34,31,32,511,414,97,3,18,318,277,41,1,8.01,-3.26,-4.33,New York Jets
+339,9,Thu,4-Nov,L,Indianapolis Colts,30,45,30,486,398,88,2,28,532,272,260,,17.45,-32.44,-0.23,New York Jets
+340,10,Sun,14-Nov,L,Buffalo Bills,17,45,22,366,296,70,5,26,489,350,139,2,-5.27,-22.44,0.62,New York Jets
+341,11,Sun,21-Nov,L,Miami Dolphins,17,24,18,380,278,102,1,20,388,273,115,1,5.03,-13.14,-0.94,New York Jets
+342,12,Sun,28-Nov,W,Houston Texans,21,14,18,266,109,157,1,13,202,106,96,1,-2.68,9.28,-1.61,New York Jets
+343,13,Sun,5-Dec,L,Philadelphia Eagles,18,33,21,281,211,70,1,26,418,233,185,,6.13,-22.38,1.78,New York Jets
+344,14,Sun,12-Dec,L,New Orleans Saints,9,30,13,256,178,78,,21,344,141,203,,-10.95,-8.42,4.28,New York Jets
+345,15,Sun,19-Dec,L,Miami Dolphins,24,31,16,228,126,102,1,23,379,196,183,3,-6.38,-2.65,1.79,New York Jets
+346,16,Sun,26-Dec,W,Jacksonville Jaguars,26,21,18,373,100,273,,27,384,252,132,1,10.13,-8.72,4.81,New York Jets
+347,17,Sun,2-Jan,L,Tampa Bay Buccaneers,24,28,22,374,224,150,1,26,467,405,62,1,13.43,-17.5,-0.2,New York Jets
+348,18,Sun,9-Jan,L,Buffalo Bills,10,27,4,53,5,48,,25,424,254,170,,-23.07,-8.18,14.05,New York Jets
+349,1,Sun,12-Sep,L,San Francisco 49ers,33,41,31,430,314,116,1,21,442,311,131,2,5.16,-15.48,1.73,Detroit Lions
+350,2,Mon,20-Sep,L,Green Bay Packers,17,35,19,344,236,108,2,25,323,227,96,,-0.27,-19.91,3.69,Detroit Lions
+351,3,Sun,26-Sep,L,Baltimore Ravens,17,19,22,285,192,93,,15,387,271,116,1,5.76,-5.18,-1.42,Detroit Lions
+352,4,Sun,3-Oct,L,Chicago Bears,14,24,23,351,261,90,2,20,373,185,188,1,1.56,-12.01,-0.02,Detroit Lions
+353,5,Sun,10-Oct,L,Minnesota Vikings,17,19,22,288,180,108,2,18,384,264,120,2,-7.67,0.5,4.46,Detroit Lions
+354,6,Sun,17-Oct,L,Cincinnati Bengals,11,34,15,228,192,36,1,20,398,256,142,1,-8.89,-16.6,0.46,Detroit Lions
+355,7,Sun,24-Oct,L,Los Angeles Rams,19,28,19,415,278,137,2,22,374,327,47,,3.32,-20.08,6.99,Detroit Lions
+356,8,Sun,31-Oct,L,Philadelphia Eagles,6,44,15,228,171,57,1,27,350,114,236,,-17.4,-18.7,-1.69,Detroit Lions
+357,9,,,,Bye Week,,,,,,,,,,,,,,,,Detroit Lions
+358,10,Sun,14-Nov,T,Pittsburgh Steelers,16,16,17,306,77,229,,22,387,242,145,3,-5.57,6.61,-1.04,Detroit Lions
+359,11,Sun,21-Nov,L,Cleveland Browns,10,13,12,245,77,168,2,22,349,165,184,2,-4.39,-4.65,6.08,Detroit Lions
+360,12,Thu,25-Nov,L,Chicago Bears,14,16,14,239,163,76,1,21,378,310,68,1,-2.01,-4.4,4.41,Detroit Lions
+361,13,Sun,5-Dec,W,Minnesota Vikings,29,27,23,372,272,100,2,26,426,326,100,1,5.16,-2.07,1.98,Detroit Lions
+362,14,Sun,12-Dec,L,Denver Broncos,10,38,17,316,198,118,2,25,358,174,184,,-4.61,-22.94,1.05,Detroit Lions
+363,15,Sun,19-Dec,W,Arizona Cardinals,30,12,22,338,212,126,1,23,398,293,105,1,9.87,3.11,1.31,Detroit Lions
+364,16,Sun,26-Dec,L,Atlanta Falcons,16,20,19,338,208,130,1,14,254,207,47,1,6.56,-5.42,-2.23,Detroit Lions
+365,17,Sun,2-Jan,L,Seattle Seahawks,29,51,20,357,262,95,3,29,497,232,265,,3.55,-32.32,2.68,Detroit Lions
+366,18,Sun,9-Jan,W,Green Bay Packers,37,30,19,404,305,99,,22,378,256,122,3,16.74,-6.49,0,Detroit Lions
+367,1,Sun,12-Sep,L,New Orleans Saints,3,38,14,229,186,43,3,22,322,151,171,,-14.83,-20.22,1.59,Green Bay Packers
+368,2,Mon,20-Sep,W,Detroit Lions,35,17,25,323,227,96,,19,344,236,108,2,19.91,0.27,-3.69,Green Bay Packers
+369,3,Sun,26-Sep,W,San Francisco 49ers,30,28,21,353,253,100,,26,298,231,67,2,15.14,-12.19,-0.95,Green Bay Packers
+370,4,Sun,3-Oct,W,Pittsburgh Steelers,27,17,23,367,236,131,1,17,282,220,62,2,7.14,5.05,-3.23,Green Bay Packers
+371,5,Sun,10-Oct,W,Cincinnati Bengals,25,22,21,466,333,133,1,18,367,264,103,2,9.92,-3.92,-3.51,Green Bay Packers
+372,6,Sun,17-Oct,W,Chicago Bears,24,14,22,323,169,154,,21,277,137,140,1,14.93,-4.93,0.3,Green Bay Packers
+373,7,Sun,24-Oct,W,Washington Football Team,24,10,19,304,247,57,1,25,430,235,195,2,8.64,0.39,3.31,Green Bay Packers
+374,8,Thu,28-Oct,W,Arizona Cardinals,24,21,24,335,184,151,,22,334,260,74,3,7.88,-9.86,6.65,Green Bay Packers
+375,9,Sun,7-Nov,L,Kansas City Chiefs,7,13,19,301,179,122,2,14,237,160,77,,-0.97,6.84,-12.35,Green Bay Packers
+376,10,Sun,14-Nov,W,Seattle Seahawks,17,0,22,393,287,106,1,15,208,133,75,2,8.95,11.44,-5.23,Green Bay Packers
+377,11,Sun,21-Nov,L,Minnesota Vikings,31,34,21,467,372,95,,25,408,318,90,,22.41,-25.39,1.57,Green Bay Packers
+378,12,Sun,28-Nov,W,Los Angeles Rams,36,28,21,399,307,92,1,15,353,285,68,3,4.66,5.92,-0.69,Green Bay Packers
+379,13,,,,Bye Week,,,,,,,,,,,,,,,,Green Bay Packers
+380,14,Sun,12-Dec,W,Chicago Bears,45,30,27,439,320,119,,16,347,210,137,3,23.05,5.6,-15.19,Green Bay Packers
+381,15,Sun,19-Dec,W,Baltimore Ravens,31,30,26,346,250,96,,24,354,211,143,,19.33,-13.55,-1.9,Green Bay Packers
+382,16,Sat,25-Dec,W,Cleveland Browns,24,22,19,311,202,109,,28,408,189,219,4,10.56,-9.4,3.89,Green Bay Packers
+383,17,Sun,2-Jan,W,Minnesota Vikings,37,10,29,481,307,174,,11,206,179,27,,21.96,13.56,-7.8,Green Bay Packers
+384,18,Sun,9-Jan,L,Detroit Lions,30,37,22,378,256,122,3,19,404,305,99,,6.49,-16.74,0,Green Bay Packers
+385,,,Playoffs,,,,,,,,,,,,,,,,,,Green Bay Packers
+386,Division,Sat,22-Jan,L,San Francisco 49ers,10,13,14,263,196,67,1,12,212,106,106,1,-4.75,11.56,-9.07,Green Bay Packers
+387,1,Sun,12-Sep,W,New York Jets,19,14,18,381,270,111,1,16,252,207,45,1,1.31,10,-3.49,Carolina Panthers
+388,2,Sun,19-Sep,W,New Orleans Saints,26,7,28,383,294,89,1,6,128,80,48,2,12.61,21.2,-12.63,Carolina Panthers
+389,3,Thu,23-Sep,W,Houston Texans,24,9,28,407,290,117,,14,193,151,42,,14.35,5.6,-5.17,Carolina Panthers
+390,4,Sun,3-Oct,L,Dallas Cowboys,28,36,24,379,266,113,2,24,433,188,245,,10.49,-19.39,-1.46,Carolina Panthers
+391,5,Sun,10-Oct,L,Philadelphia Eagles,18,21,17,267,158,109,3,15,273,182,91,2,-16.27,15.13,-3.99,Carolina Panthers
+392,6,Sun,17-Oct,L,Minnesota Vikings,28,34,20,306,188,118,3,26,571,373,198,1,-9.64,-8.77,12.64,Carolina Panthers
+393,7,Sun,24-Oct,L,New York Giants,3,25,11,173,117,56,1,21,302,199,103,,-22.46,3.21,-2.91,Carolina Panthers
+394,8,Sun,31-Oct,W,Atlanta Falcons,19,13,21,332,129,203,1,17,213,131,82,2,0.86,2.84,4.14,Carolina Panthers
+395,9,Sun,7-Nov,L,New England Patriots,6,24,13,240,162,78,3,17,273,122,151,2,-26.35,3.56,5.26,Carolina Panthers
+396,10,Sun,14-Nov,W,Arizona Cardinals,34,10,24,341,175,166,2,11,169,104,65,2,2.27,19.35,1.02,Carolina Panthers
+397,11,Sun,21-Nov,L,Washington Football Team,21,27,18,297,186,111,,24,369,179,190,1,6.37,-13.28,-0.05,Carolina Panthers
+398,12,Sun,28-Nov,L,Miami Dolphins,10,33,10,198,134,64,3,22,315,204,111,1,-17.24,-1.89,-2.85,Carolina Panthers
+399,13,,,,Bye Week,,,,,,,,,,,,,,,,Carolina Panthers
+400,14,Sun,12-Dec,L,Atlanta Falcons,21,29,21,334,243,91,3,20,318,190,128,1,-5.38,-4.15,-1.74,Carolina Panthers
+401,15,Sun,19-Dec,L,Buffalo Bills,14,31,19,275,124,151,1,21,312,193,119,1,-11.11,-9.55,1.29,Carolina Panthers
+402,16,Sun,26-Dec,L,Tampa Bay Buccaneers,6,32,16,273,206,67,1,21,391,232,159,,-11.17,-13.01,2.95,Carolina Panthers
+403,17,Sun,2-Jan,L,New Orleans Saints,10,18,16,178,90,88,2,15,280,207,73,,-10.01,0.34,-0.41,Carolina Panthers
+404,18,Sun,9-Jan,L,Tampa Bay Buccaneers,17,41,18,317,207,110,2,21,409,324,85,,-10.73,-20.33,4.03,Carolina Panthers
+405,1,Sun,12-Sep,L,Miami Dolphins,16,17,24,393,268,125,2,16,259,185,74,1,5.75,0.74,-6.05,New England Patriots
+406,2,Sun,19-Sep,W,New York Jets,25,6,17,260,159,101,,18,336,184,152,4,0.24,12.66,3.52,New England Patriots
+407,3,Sun,26-Sep,L,New Orleans Saints,13,28,16,300,251,49,3,19,252,110,142,,-16.39,-3.67,5.4,New England Patriots
+408,4,Sun,3-Oct,L,Tampa Bay Buccaneers,17,19,20,294,295,-1,2,22,381,261,120,,0.96,-5.45,2.94,New England Patriots
+409,5,Sun,10-Oct,W,Houston Texans,25,22,21,352,226,126,2,14,360,293,67,1,6.89,-13.76,8.6,New England Patriots
+410,6,Sun,17-Oct,L,Dallas Cowboys,29,35,17,335,215,120,2,32,567,445,122,2,0.65,-9.87,0.9,New England Patriots
+411,7,Sun,24-Oct,W,New York Jets,54,13,32,551,403,148,,18,299,237,62,3,37.61,5.92,0.06,New England Patriots
+412,8,Sun,31-Oct,W,Los Angeles Chargers,27,24,21,352,210,142,1,17,369,206,163,2,-1.47,-1.35,9.98,New England Patriots
+413,9,Sun,7-Nov,W,Carolina Panthers,24,6,17,273,122,151,2,13,240,162,78,3,-3.56,26.35,-5.26,New England Patriots
+414,10,Sun,14-Nov,W,Cleveland Browns,45,7,30,452,268,184,,17,217,118,99,1,31.28,9.48,-2.69,New England Patriots
+415,11,Thu,18-Nov,W,Atlanta Falcons,25,0,20,308,174,134,1,11,165,125,40,4,-0.69,25.53,2.44,New England Patriots
+416,12,Sun,28-Nov,W,Tennessee Titans,36,13,23,394,289,105,,18,355,85,270,4,16.62,2.23,4.08,New England Patriots
+417,13,Mon,6-Dec,W,Buffalo Bills,14,10,11,241,19,222,1,16,230,131,99,1,-1.79,7.94,-0.85,New England Patriots
+418,14,,,,Bye Week,,,,,,,,,,,,,,,,New England Patriots
+419,15,Sat,18-Dec,L,Indianapolis Colts,17,27,20,365,284,81,2,15,275,49,226,1,-2.77,-3.63,-4.16,New England Patriots
+420,16,Sun,26-Dec,L,Buffalo Bills,21,33,20,288,139,149,2,28,428,314,114,,9.37,-19.09,1.08,New England Patriots
+421,17,Sun,2-Jan,W,Jacksonville Jaguars,50,10,32,471,290,181,,11,253,173,80,3,32.81,11.33,-3.4,New England Patriots
+422,18,Sun,9-Jan,L,Miami Dolphins,24,33,21,379,245,134,3,23,298,103,195,,1.93,-9.83,-8.66,New England Patriots
+423,,,Playoffs,,,,,,,,,,,,,,,,,,New England Patriots
+424,Wild Card,Sat,15-Jan,L,Buffalo Bills,17,47,20,305,216,89,2,29,482,308,174,,9.53,-40.37,1.53,New England Patriots
+425,1,Mon,13-Sep,W,Baltimore Ravens,33,27,26,491,409,82,1,20,406,217,189,2,11.58,-3,-2.58,Oakland Raiders
+426,2,Sun,19-Sep,W,Pittsburgh Steelers,26,17,22,425,373,52,,17,331,292,39,1,12.75,-1.19,-0.99,Oakland Raiders
+427,3,Sun,26-Sep,W,Miami Dolphins,31,28,28,497,357,140,1,22,330,197,133,,7.21,-5.04,0.43,Oakland Raiders
+428,4,Mon,4-Oct,L,Los Angeles Chargers,14,28,13,213,165,48,1,25,380,212,168,,-7.95,-11.99,2.22,Oakland Raiders
+429,5,Sun,10-Oct,L,Chicago Bears,9,20,16,259,188,71,1,19,252,109,143,,-7.14,-2.39,-2.05,Oakland Raiders
+430,6,Sun,17-Oct,W,Denver Broncos,34,24,16,426,340,86,,25,421,309,112,4,16.95,-2.97,-1.18,Oakland Raiders
+431,7,Sun,24-Oct,W,Philadelphia Eagles,33,22,23,442,323,119,1,22,358,223,135,2,18,-4.67,1.38,Oakland Raiders
+432,8,,,,Bye Week,,,,,,,,,,,,,,,,Oakland Raiders
+433,9,Sun,7-Nov,L,New York Giants,16,23,24,403,286,117,3,16,247,98,149,1,-1.72,-0.51,-5.84,Oakland Raiders
+434,10,Sun,14-Nov,L,Kansas City Chiefs,14,41,15,299,249,50,2,29,516,422,94,1,-1.08,-34.37,7.21,Oakland Raiders
+435,11,Sun,21-Nov,L,Cincinnati Bengals,13,32,13,278,206,72,2,23,288,129,159,1,-6.44,-6.5,-5.53,Oakland Raiders
+436,12,Thu,25-Nov,W,Dallas Cowboys,36,33,28,509,366,143,,23,437,373,64,,18.14,-9.66,-3.08,Oakland Raiders
+437,13,Sun,5-Dec,L,Washington Football Team,15,17,22,310,234,76,,23,298,186,112,1,6.39,-8.22,-0.07,Oakland Raiders
+438,14,Sun,12-Dec,L,Kansas City Chiefs,9,48,19,290,246,44,5,21,372,240,132,,-9.74,-25.7,-1.07,Oakland Raiders
+439,15,Mon,20-Dec,W,Cleveland Browns,16,14,20,328,230,98,2,13,236,147,89,,1.6,-1.13,0.2,Oakland Raiders
+440,16,Sun,26-Dec,W,Denver Broncos,17,13,22,342,182,160,3,8,158,140,18,,-0.46,7.14,-2.09,Oakland Raiders
+441,17,Sun,2-Jan,W,Indianapolis Colts,23,20,18,326,241,85,2,16,262,140,122,,5.02,-4.03,3.28,Oakland Raiders
+442,18,Sun,9-Jan,W,Los Angeles Chargers,35,32,24,346,172,174,,27,440,355,85,2,11.13,-16.16,8.69,Oakland Raiders
+443,,,Playoffs,,,,,,,,,,,,,,,,,,Oakland Raiders
+444,Wild Card,Sat,15-Jan,L,Cincinnati Bengals,19,26,23,385,282,103,2,18,308,225,83,,3.65,-7.92,-1.81,Oakland Raiders
+445,1,Sun,12-Sep,W,Chicago Bears,34,14,18,386,312,74,,24,322,188,134,2,21.58,0.85,-0.52,Los Angeles Rams
+446,2,Sun,19-Sep,W,Indianapolis Colts,27,24,21,371,270,101,2,22,354,245,109,2,7.11,-1.29,-3.09,Los Angeles Rams
+447,3,Sun,26-Sep,W,Tampa Bay Buccaneers,34,24,22,407,331,76,,27,446,411,35,,20.56,-15.15,3.43,Los Angeles Rams
+448,4,Sun,3-Oct,L,Arizona Cardinals,20,37,24,401,280,121,2,27,465,249,216,,8.94,-21.72,-2.64,Los Angeles Rams
+449,5,Thu,7-Oct,W,Seattle Seahawks,26,17,24,476,358,118,1,22,354,262,92,2,13.76,-6.71,-0.05,Los Angeles Rams
+450,6,Sun,17-Oct,W,New York Giants,38,11,22,365,234,131,2,21,261,201,60,4,7.63,19.06,-0.96,Los Angeles Rams
+451,7,Sun,24-Oct,W,Detroit Lions,28,19,22,374,327,47,,19,415,278,137,2,20.08,-3.32,-6.99,Los Angeles Rams
+452,8,Sun,31-Oct,W,Houston Texans,38,22,26,467,302,165,,18,323,279,44,1,22.2,-1.75,-8.01,Los Angeles Rams
+453,9,Sun,7-Nov,L,Tennessee Titans,16,28,22,347,253,94,2,16,194,125,69,1,-11.78,-1.15,-0.53,Los Angeles Rams
+454,10,Mon,15-Nov,L,San Francisco 49ers,10,31,16,278,226,52,2,20,335,179,156,,-7.18,-11.33,-0.7,Los Angeles Rams
+455,11,,,,Bye Week,,,,,,,,,,,,,,,,Los Angeles Rams
+456,12,Sun,28-Nov,L,Green Bay Packers,28,36,15,353,285,68,3,21,399,307,92,1,-5.92,-4.66,0.69,Los Angeles Rams
+457,13,Sun,5-Dec,W,Jacksonville Jaguars,37,7,24,418,290,128,,14,197,136,61,2,21.19,12.55,-3.25,Los Angeles Rams
+458,14,Mon,13-Dec,W,Arizona Cardinals,30,23,18,356,267,89,,22,447,344,103,2,13.49,-0.66,-3.55,Los Angeles Rams
+459,15,Tue,21-Dec,W,Seattle Seahawks,20,10,20,332,209,123,1,13,214,134,80,1,4.19,8.13,-3.72,Los Angeles Rams
+460,16,Sun,26-Dec,W,Minnesota Vikings,30,23,22,356,197,159,3,19,361,295,66,1,-0.84,1.81,7.8,Los Angeles Rams
+461,17,Sun,2-Jan,W,Baltimore Ravens,20,19,20,373,300,73,3,19,327,162,165,2,2.98,-0.4,-2.65,Los Angeles Rams
+462,18,Sun,9-Jan,L,San Francisco 49ers,24,27,19,265,201,64,2,23,449,314,135,2,8.42,-15.33,3.91,Los Angeles Rams
+463,,,Playoffs,,,,,,,,,,,,,,,,,,Los Angeles Rams
+464,Wild Card,Mon,17-Jan,W,Arizona Cardinals,34,11,16,375,235,140,,14,183,122,61,2,11.41,17.81,-3.99,Los Angeles Rams
+465,Division,Sun,23-Jan,W,Tampa Bay Buccaneers,30,27,24,428,355,73,4,20,359,308,51,2,-6.76,4.46,6.08,Los Angeles Rams
+466,Conf. Champ.,Sun,30-Jan,W,San Francisco 49ers,20,17,25,396,326,70,1,16,282,232,50,1,10.05,-3.75,-1.12,Los Angeles Rams
+467,SuperBowl,Sun,13-Feb,W,Cincinnati Bengals,23,20,17,313,270,43,2,15,305,226,79,,0.42,5.48,-1.93,Los Angeles Rams
+468,1,Mon,13-Sep,L,Las Vegas Raiders,27,33,20,406,217,189,2,26,491,409,82,1,3,-11.58,2.58,Baltimore Ravens
+469,2,Sun,19-Sep,W,Kansas City Chiefs,36,35,31,481,230,251,2,22,405,343,62,2,16.88,-15.89,-1.01,Baltimore Ravens
+470,3,Sun,26-Sep,W,Detroit Lions,19,17,15,387,271,116,1,22,285,192,93,,5.18,-5.76,1.42,Baltimore Ravens
+471,4,Sun,3-Oct,W,Denver Broncos,23,7,20,406,304,102,,15,254,148,106,1,3.9,10.92,1.59,Baltimore Ravens
+472,5,Mon,11-Oct,W,Indianapolis Colts,31,25,30,523,437,86,1,29,513,390,123,1,21.15,-24,6.85,Baltimore Ravens
+473,6,Sun,17-Oct,W,Los Angeles Chargers,34,6,27,327,140,187,2,14,208,182,26,1,7.5,13.93,4.48,Baltimore Ravens
+474,7,Sun,24-Oct,L,Cincinnati Bengals,17,41,20,393,278,115,,19,520,409,111,1,-2.69,-19.58,2.13,Baltimore Ravens
+475,8,,,,Bye Week,,,,,,,,,,,,,,,,Baltimore Ravens
+476,9,Sun,7-Nov,W,Minnesota Vikings,34,31,36,500,253,247,2,13,318,187,131,,20.4,-9.21,-8.25,Baltimore Ravens
+477,10,Thu,11-Nov,L,Miami Dolphins,10,22,23,304,210,94,2,17,350,290,60,,-13.81,4.72,-0.84,Baltimore Ravens
+478,11,Sun,21-Nov,W,Chicago Bears,16,13,23,299,176,123,1,14,353,261,92,1,0.29,-0.66,3.41,Baltimore Ravens
+479,12,Sun,28-Nov,W,Cleveland Browns,16,10,22,303,155,148,4,14,262,222,40,2,-7.17,11.16,4.29,Baltimore Ravens
+480,13,Sun,5-Dec,L,Pittsburgh Steelers,19,20,22,326,219,107,1,17,321,236,85,,1.95,-7.87,1.18,Baltimore Ravens
+481,14,Sun,12-Dec,L,Cleveland Browns,22,24,21,389,271,118,2,20,290,190,100,1,-8.51,-2.4,5.68,Baltimore Ravens
+482,15,Sun,19-Dec,L,Green Bay Packers,30,31,24,354,211,143,,26,346,250,96,,13.55,-19.33,1.9,Baltimore Ravens
+483,16,Sun,26-Dec,L,Cincinnati Bengals,21,41,21,334,295,39,1,33,575,498,77,,8.62,-35.73,4.84,Baltimore Ravens
+484,17,Sun,2-Jan,L,Los Angeles Rams,19,20,19,327,162,165,2,20,373,300,73,3,0.4,-2.98,2.65,Baltimore Ravens
+485,18,Sun,9-Jan,L,Pittsburgh Steelers,13,16,20,381,132,249,3,19,314,235,79,1,-10.97,6.77,1.21,Baltimore Ravens
+486,1,Sun,12-Sep,W,Green Bay Packers,38,3,22,322,151,171,,14,229,186,43,3,20.22,14.83,-1.59,New Orleans Saints
+487,2,Sun,19-Sep,L,Carolina Panthers,7,26,6,128,80,48,2,28,383,294,89,1,-21.2,-12.61,12.63,New Orleans Saints
+488,3,Sun,26-Sep,W,New England Patriots,28,13,19,252,110,142,,16,300,251,49,3,3.67,16.39,-5.4,New Orleans Saints
+489,4,Sun,3-Oct,L,New York Giants,21,27,21,405,235,170,1,21,485,402,83,1,9,-15.58,1.58,New Orleans Saints
+490,5,Sun,10-Oct,W,Washington Football Team,33,22,18,369,271,98,2,26,373,242,131,2,8.56,7.31,-3.41,New Orleans Saints
+491,6,,,,Bye Week,,,,,,,,,,,,,,,,New Orleans Saints
+492,7,Mon,25-Oct,W,Seattle Seahawks,13,10,21,304,210,94,1,14,219,129,90,,-3.46,6.87,5.19,New Orleans Saints
+493,8,Sun,31-Oct,W,Tampa Bay Buccaneers,36,27,26,361,209,152,,16,421,350,71,3,12.99,-0.98,1.1,New Orleans Saints
+494,9,Sun,7-Nov,L,Atlanta Falcons,25,27,26,376,267,109,1,18,366,332,34,,1.35,-7.33,3.25,New Orleans Saints
+495,10,Sun,14-Nov,L,Tennessee Titans,21,23,22,373,287,86,1,17,264,198,66,,12.34,-1.15,-13.69,New Orleans Saints
+496,11,Sun,21-Nov,L,Philadelphia Eagles,29,40,18,323,214,109,3,21,380,138,242,1,-9.01,-0.6,-4.11,New Orleans Saints
+497,12,Thu,25-Nov,L,Buffalo Bills,6,31,12,190,146,44,1,21,361,248,113,2,-15.07,-11.92,-0.25,New Orleans Saints
+498,13,Thu,2-Dec,L,Dallas Cowboys,17,27,17,405,252,153,4,17,377,231,146,1,-9.41,3.59,-5.15,New Orleans Saints
+499,14,Sun,12-Dec,W,New York Jets,30,9,21,344,141,203,,13,256,178,78,,8.42,10.95,-4.28,New Orleans Saints
+500,15,Sun,19-Dec,W,Tampa Bay Buccaneers,9,0,11,212,151,61,,17,302,184,118,2,-17.46,13.21,10.67,New Orleans Saints
+501,16,Mon,27-Dec,L,Miami Dolphins,3,20,10,164,81,83,2,16,259,173,86,1,-24.8,3.16,3.21,New Orleans Saints
+502,17,Sun,2-Jan,W,Carolina Panthers,18,10,15,280,207,73,,16,178,90,88,2,-0.34,10.01,0.41,New Orleans Saints
+503,18,Sun,9-Jan,W,Atlanta Falcons,30,20,22,369,174,195,,13,257,195,62,3,12.23,6.88,-10.23,New Orleans Saints
+504,1,Sun,12-Sep,W,Indianapolis Colts,28,16,18,381,241,140,1,23,336,223,113,1,14.35,-3.07,-0.51,Seattle Seahawks
+505,2,Sun,19-Sep,L,Tennessee Titans,30,33,17,397,320,77,,33,532,320,212,1,13.29,-17.41,1.06,Seattle Seahawks
+506,3,Sun,26-Sep,L,Minnesota Vikings,17,30,21,389,283,106,,28,453,313,140,,14.86,-20.96,-1.13,Seattle Seahawks
+507,4,Sun,3-Oct,W,San Francisco 49ers,28,21,14,234,129,105,,23,457,314,143,2,2.2,-8.61,14.31,Seattle Seahawks
+508,5,Thu,7-Oct,L,Los Angeles Rams,17,26,22,354,262,92,2,24,476,358,118,1,6.71,-13.76,0.05,Seattle Seahawks
+509,6,Sun,17-Oct,L,Pittsburgh Steelers,20,23,18,309,165,144,1,22,345,226,119,1,-3.89,1.52,-1.09,Seattle Seahawks
+510,7,Mon,25-Oct,L,New Orleans Saints,10,13,14,219,129,90,,21,304,210,94,1,-6.87,3.46,-5.19,Seattle Seahawks
+511,8,Sun,31-Oct,W,Jacksonville Jaguars,31,7,17,229,160,69,,20,309,227,82,1,7.46,6.73,7.41,Seattle Seahawks
+512,9,,,,Bye Week,,,,,,,,,,,,,,,,Seattle Seahawks
+513,10,Sun,14-Nov,L,Green Bay Packers,0,17,15,208,133,75,2,22,393,287,106,1,-11.44,-8.95,5.23,Seattle Seahawks
+514,11,Sun,21-Nov,L,Arizona Cardinals,13,23,16,266,180,86,,29,413,318,95,,-1.84,-17.7,8.6,Seattle Seahawks
+515,12,Mon,29-Nov,L,Washington Football Team,15,17,10,267,233,34,1,27,371,219,152,1,-2.58,-6.29,2.42,Seattle Seahawks
+516,13,Sun,5-Dec,W,San Francisco 49ers,30,23,21,327,181,146,3,17,365,294,71,3,2.27,0.51,3.44,Seattle Seahawks
+517,14,Sun,12-Dec,W,Houston Texans,33,13,20,453,260,193,,25,380,317,63,,21.71,2.6,-9.75,Seattle Seahawks
+518,15,Tue,21-Dec,L,Los Angeles Rams,10,20,13,214,134,80,1,20,332,209,123,1,-8.13,-4.19,3.72,Seattle Seahawks
+519,16,Sun,26-Dec,L,Chicago Bears,24,25,18,331,161,170,,26,317,229,88,,8.31,-7.6,-3.95,Seattle Seahawks
+520,17,Sun,2-Jan,W,Detroit Lions,51,29,29,497,232,265,,20,357,262,95,3,32.32,-3.55,-2.68,Seattle Seahawks
+521,18,Sun,9-Jan,W,Arizona Cardinals,38,30,19,431,229,202,2,20,305,187,118,1,12.83,-0.21,-1.02,Seattle Seahawks
+522,1,Sun,12-Sep,W,Buffalo Bills,23,16,16,252,177,75,,22,371,254,117,1,-0.54,3.55,5.01,Pittsburgh Steelers
+523,2,Sun,19-Sep,L,Las Vegas Raiders,17,26,17,331,292,39,1,22,425,373,52,,1.19,-12.75,0.99,Pittsburgh Steelers
+524,3,Sun,26-Sep,L,Cincinnati Bengals,10,24,21,342,297,45,2,12,268,172,96,1,-8.46,-0.17,-6.09,Pittsburgh Steelers
+525,4,Sun,3-Oct,L,Green Bay Packers,17,27,17,282,220,62,2,23,367,236,131,1,-5.05,-7.14,3.23,Pittsburgh Steelers
+526,5,Sun,10-Oct,W,Denver Broncos,27,19,19,391,244,147,1,17,374,268,106,1,11.44,-5.37,1.98,Pittsburgh Steelers
+527,6,Sun,17-Oct,W,Seattle Seahawks,23,20,22,345,226,119,1,18,309,165,144,1,-1.52,3.89,1.09,Pittsburgh Steelers
+528,7,,,,Bye Week,,,,,,,,,,,,,,,,Pittsburgh Steelers
+529,8,Sun,31-Oct,W,Cleveland Browns,15,10,21,370,255,115,,19,306,210,96,1,1.77,2.67,-0.11,Pittsburgh Steelers
+530,9,Mon,8-Nov,W,Chicago Bears,29,27,20,280,175,105,1,20,414,278,136,2,8.46,-4.26,-4.79,Pittsburgh Steelers
+531,10,Sun,14-Nov,T,Detroit Lions,16,16,22,387,242,145,3,17,306,77,229,,-6.61,5.57,1.04,Pittsburgh Steelers
+532,11,Sun,21-Nov,L,Los Angeles Chargers,37,41,22,300,245,55,,33,533,374,159,1,7.04,-20.68,7.92,Pittsburgh Steelers
+533,12,Sun,28-Nov,L,Cincinnati Bengals,10,41,16,301,250,51,3,25,370,172,198,1,-15.89,-14.42,0.88,Pittsburgh Steelers
+534,13,Sun,5-Dec,W,Baltimore Ravens,20,19,17,321,236,85,,22,326,219,107,1,7.87,-1.95,-1.18,Pittsburgh Steelers
+535,14,Thu,9-Dec,L,Minnesota Vikings,28,36,22,375,269,106,1,22,458,216,242,2,6.41,-8.68,-1.31,Pittsburgh Steelers
+536,15,Sun,19-Dec,W,Tennessee Titans,19,13,12,168,133,35,,22,318,117,201,4,-5.99,13.76,-0.69,Pittsburgh Steelers
+537,16,Sun,26-Dec,L,Kansas City Chiefs,10,36,20,303,173,130,3,25,381,254,127,,-6.16,-16.97,2.77,Pittsburgh Steelers
+538,17,Mon,3-Jan,W,Cleveland Browns,26,14,20,299,109,190,1,15,232,139,93,2,0.38,12.27,4.51,Pittsburgh Steelers
+539,18,Sun,9-Jan,W,Baltimore Ravens,16,13,19,314,235,79,1,20,381,132,249,3,-6.77,10.97,-1.21,Pittsburgh Steelers
+540,,,Playoffs,,,,,,,,,,,,,,,,,,Pittsburgh Steelers
+541,Wild Card,Sun,16-Jan,L,Kansas City Chiefs,21,42,19,257,201,56,1,26,478,372,106,2,-2.06,-16.09,0.99,Pittsburgh Steelers
+542,1,Sun,12-Sep,W,Jacksonville Jaguars,37,21,22,449,289,160,,20,395,319,76,3,14.76,1.54,-0.16,Houston Texans
+543,2,Sun,19-Sep,L,Cleveland Browns,21,31,17,302,220,82,2,22,355,199,156,2,9.61,-8.22,-8.62,Houston Texans
+544,3,Thu,23-Sep,L,Carolina Panthers,9,24,14,193,151,42,,28,407,290,117,,-5.6,-14.35,5.17,Houston Texans
+545,4,Sun,3-Oct,L,Buffalo Bills,0,40,6,109,61,48,5,26,450,251,199,1,-32.68,-14.54,6.4,Houston Texans
+546,5,Sun,10-Oct,L,New England Patriots,22,25,14,360,293,67,1,21,352,226,126,2,13.76,-6.89,-8.6,Houston Texans
+547,6,Sun,17-Oct,L,Indianapolis Colts,3,31,19,353,229,124,3,15,388,214,174,,-9.92,-17.25,0.25,Houston Texans
+548,7,Sun,24-Oct,L,Arizona Cardinals,5,31,8,160,118,42,1,24,397,225,172,1,-23.71,-13.37,10.47,Houston Texans
+549,8,Sun,31-Oct,L,Los Angeles Rams,22,38,18,323,279,44,1,26,467,302,165,,1.75,-22.2,8.01,Houston Texans
+550,9,Sun,7-Nov,L,Miami Dolphins,9,17,14,272,199,73,4,22,262,215,47,5,-19.43,8.14,4.21,Houston Texans
+551,10,,,,Bye Week,,,,,,,,,,,,,,,,Houston Texans
+552,11,Sun,21-Nov,W,Tennessee Titans,22,13,15,190,107,83,,26,420,317,103,5,-10.9,6.86,10.33,Houston Texans
+553,12,Sun,28-Nov,L,New York Jets,14,21,13,202,106,96,1,18,266,109,157,1,-9.28,2.68,1.61,Houston Texans
+554,13,Sun,5-Dec,L,Indianapolis Colts,0,31,9,141,57,84,2,26,389,151,238,1,-28.83,-12.97,9.16,Houston Texans
+555,14,Sun,12-Dec,L,Seattle Seahawks,13,33,25,380,317,63,,20,453,260,193,,-2.6,-21.71,9.75,Houston Texans
+556,15,Sun,19-Dec,W,Jacksonville Jaguars,30,16,13,281,206,75,1,21,296,189,107,,-0.77,1.9,10.61,Houston Texans
+557,16,Sun,26-Dec,W,Los Angeles Chargers,41,29,26,437,248,189,,25,417,328,89,3,24.35,-5.49,-2.75,Houston Texans
+558,17,Sun,2-Jan,L,San Francisco 49ers,7,23,15,222,136,86,1,19,416,241,175,1,-7.88,-5.7,-0.16,Houston Texans
+559,18,Sun,9-Jan,L,Tennessee Titans,25,28,18,353,289,64,,23,405,281,124,,13.08,-21.6,1.97,Houston Texans
+560,1,Sun,12-Sep,L,Arizona Cardinals,13,38,17,248,162,86,3,22,416,280,136,1,-14.48,-8.83,-1.57,Tennessee Titans
+561,2,Sun,19-Sep,W,Seattle Seahawks,33,30,33,532,320,212,1,17,397,320,77,,17.41,-13.29,-1.06,Tennessee Titans
+562,3,Sun,26-Sep,W,Indianapolis Colts,25,16,24,368,188,180,3,19,265,178,87,,7.29,-3.98,4.86,Tennessee Titans
+563,4,Sun,3-Oct,L,New York Jets,24,27,30,430,253,177,,16,355,289,66,1,2.8,-8.42,0.71,Tennessee Titans
+564,5,Sun,10-Oct,W,Jacksonville Jaguars,37,19,23,368,184,184,,24,454,256,198,2,17.49,-3.06,2.3,Tennessee Titans
+565,6,Mon,18-Oct,W,Buffalo Bills,34,31,16,362,216,146,1,28,417,335,82,1,15.97,-13.13,0.79,Tennessee Titans
+566,7,Sun,24-Oct,W,Kansas City Chiefs,27,3,24,369,266,103,1,22,334,257,77,3,15.54,7.62,0.06,Tennessee Titans
+567,8,Sun,31-Oct,W,Indianapolis Colts,34,31,18,340,247,93,2,24,307,224,83,3,5.81,-3.55,0.74,Tennessee Titans
+568,9,Sun,7-Nov,W,Los Angeles Rams,28,16,16,194,125,69,1,22,347,253,94,2,1.15,11.78,0.53,Tennessee Titans
+569,10,Sun,14-Nov,W,New Orleans Saints,23,21,17,264,198,66,,22,373,287,86,1,1.15,-12.34,13.69,Tennessee Titans
+570,11,Sun,21-Nov,L,Houston Texans,13,22,26,420,317,103,5,15,190,107,83,,-6.86,10.9,-10.33,Tennessee Titans
+571,12,Sun,28-Nov,L,New England Patriots,13,36,18,355,85,270,4,23,394,289,105,,-2.23,-16.62,-4.08,Tennessee Titans
+572,13,,,,Bye Week,,,,,,,,,,,,,,,,Tennessee Titans
+573,14,Sun,12-Dec,W,Jacksonville Jaguars,20,0,22,263,161,102,,9,192,184,8,4,2.55,18.9,-4.47,Tennessee Titans
+574,15,Sun,19-Dec,L,Pittsburgh Steelers,13,19,22,318,117,201,4,12,168,133,35,,-13.76,5.99,0.69,Tennessee Titans
+575,16,Thu,23-Dec,W,San Francisco 49ers,20,17,16,278,188,90,,22,389,306,83,2,2.96,-5.48,2.72,Tennessee Titans
+576,17,Sun,2-Jan,W,Miami Dolphins,34,3,17,308,110,198,,16,256,182,74,2,7.95,14.86,6.05,Tennessee Titans
+577,18,Sun,9-Jan,W,Houston Texans,28,25,23,405,281,124,,18,353,289,64,,21.6,-13.08,-1.97,Tennessee Titans
+578,,,Playoffs,,,,,,,,,,,,,,,,,,Tennessee Titans
+579,Division,Sat,22-Jan,L,Cincinnati Bengals,16,19,16,353,213,140,3,17,345,280,65,1,-3.15,1.17,-4.99,Tennessee Titans
+580,1,Sun,12-Sep,L,Cincinnati Bengals,24,27,24,403,336,67,1,20,366,217,149,,2.9,-6.16,1.79,Minnesota Vikings
+581,2,Sun,19-Sep,L,Arizona Cardinals,33,34,22,419,242,177,,21,474,371,103,2,12.56,-11.99,-0.9,Minnesota Vikings
+582,3,Sun,26-Sep,W,Seattle Seahawks,30,17,28,453,313,140,,21,389,283,106,,20.96,-14.86,1.13,Minnesota Vikings
+583,4,Sun,3-Oct,L,Cleveland Browns,7,14,16,255,190,65,1,20,327,143,184,,-7.71,4.58,-2.13,Minnesota Vikings
+584,5,Sun,10-Oct,W,Detroit Lions,19,17,18,384,264,120,2,22,288,180,108,2,-0.5,7.67,-4.46,Minnesota Vikings
+585,6,Sun,17-Oct,W,Carolina Panthers,34,28,26,571,373,198,1,20,306,188,118,3,8.77,9.64,-12.64,Minnesota Vikings
+586,7,,,,Bye Week,,,,,,,,,,,,,,,,Minnesota Vikings
+587,8,Sun,31-Oct,L,Dallas Cowboys,16,20,17,278,177,101,,23,419,341,78,2,-2.03,-6.74,6.34,Minnesota Vikings
+588,9,Sun,7-Nov,L,Baltimore Ravens,31,34,13,318,187,131,,36,500,253,247,2,9.21,-20.4,8.25,Minnesota Vikings
+589,10,Sun,14-Nov,W,Los Angeles Chargers,27,20,24,381,278,103,1,20,253,171,82,1,8.75,-3.95,2.56,Minnesota Vikings
+590,11,Sun,21-Nov,W,Green Bay Packers,34,31,25,408,318,90,,21,467,372,95,,25.39,-22.41,-1.57,Minnesota Vikings
+591,12,Sun,28-Nov,L,San Francisco 49ers,26,34,17,323,256,67,2,23,423,215,208,1,-4.16,-8.93,6.1,Minnesota Vikings
+592,13,Sun,5-Dec,L,Detroit Lions,27,29,26,426,326,100,1,23,372,272,100,2,2.07,-5.16,-1.98,Minnesota Vikings
+593,14,Thu,9-Dec,W,Pittsburgh Steelers,36,28,22,458,216,242,2,22,375,269,106,1,8.68,-6.41,1.31,Minnesota Vikings
+594,15,Mon,20-Dec,W,Chicago Bears,17,9,13,193,61,132,1,24,370,255,115,3,-4.65,7.72,5.92,Minnesota Vikings
+595,16,Sun,26-Dec,L,Los Angeles Rams,23,30,19,361,295,66,1,22,356,197,159,3,-1.81,0.84,-7.8,Minnesota Vikings
+596,17,Sun,2-Jan,L,Green Bay Packers,10,37,11,206,179,27,,29,481,307,174,,-13.56,-21.96,7.8,Minnesota Vikings
+597,18,Sun,9-Jan,W,Chicago Bears,31,17,11,331,227,104,,24,356,266,90,2,7.18,12.22,-1.2,Minnesota Vikings
