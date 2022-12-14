@@ -15092,7 +15092,7 @@ dtype: object</pre>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h4 id="Table-3:">Table 3:<a class="anchor-link" href="#Table-3:">&#182;</a></h4><p>This table comes from &quot;spreadspoke_scores.csv&quot;, also found in &quot;NFL Scores and Betting Data&quot; dataset. It contains information about the scores of each game since the inception of the NFL. Since we only care about modern football, we will limit it to 2014. This data will help us answer questions like &quot;Which team has had the most success since 2014?&quot; &quot;Which teams have the best/worst record each year?&quot;. We will be combining this data with other datasets like salary cap information and position statistics to get a better understanding on what makes NFL teams successful.</p>
+<h4 id="Table-3:">Table 3:<a class="anchor-link" href="#Table-3:">&#182;</a></h4><p>This table comes from &quot;spreadspoke_scores.csv&quot;, also found in the &quot;NFL Scores and Betting Data&quot; dataset. It contains information about the scores of each game since the inception of the NFL. Since we only care about modern football, we will limit it to 2014. This data will help us answer questions like &quot;Which team has had the most success since 2014?&quot; &quot;Which teams have the best/worst record each year?&quot;. We will be combining this data with other datasets like salary cap information and position statistics to get a better understanding on what makes NFL teams successful.</p>
 
 </div>
 </div>
@@ -26270,8 +26270,8 @@ class="
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>We were relatively successful in predicting NFL teams’ success with a limited number of positions. The linear regression model was able to predict, on average, within 2-3 wins for any given NFL Franchise. Our findings suggest that the importance of each position in the NFL is weighted quite differently when predicting team wins. For instance, when looking at the graph displaying the positions' beta coefficients, you see that the top 2 positions are offensive positions. Many people reference the importance of scoring points in &quot;modern football&quot;, and our findings support this claim. As Dan Marino once said, &quot;There is no defense against a perfect pass. I can throw a perfect pass.”</p>
-<p>However, a large portion of one player's success comes from those around him. For instance, a QB needs a WR to get open and the WR needs the QB to throw a good pass. Our goal was not to evaluate &quot;team&quot; stats, but to try to separate positions and use only those deemed significant. We believe we accomplished this and have further ideas for improvement. Since our data is limited and contains NaN values, an XGBoost model would most likely have predicted with higher success.</p>
+<p>We were relatively successful in predicting NFL teams’ success with a limited number of positions. The linear regression model was able to predict, on average, within 2-3 wins for any given NFL franchise. Our findings suggest that the importance of each position in the NFL is weighted quite differently when predicting team wins. For instance, when looking at the graph displaying the positions' beta coefficients, you see that the top 2 positions are offensive positions. Many people reference the importance of scoring points in &quot;modern football&quot;, and our findings support this claim. As Dan Marino once said, &quot;There is no defense against a perfect pass. I can throw a perfect pass.”</p>
+<p>However, a large portion of one player's success comes from those around him. For instance, a QB needs a WR to get open and the WR needs the QB to throw a good pass. Our goal was not to evaluate &quot;team&quot; stats, but to try to separate positions and use only those deemed significant. We believe we accomplished this and have more ideas for improvement. For example, since our data is limited and contains NaN values, an XGBoost model would most likely have predicted with higher success, compared to our linear regression approach.</p>
 <p>Nevertheless, while this project is far from perfect, we are satisfied with what we've created, and can proudly display a working analysis with many interesting aspects.</p>
 <p>This is our final product for our NFL Analysis, and thank you for reading.</p>
 
@@ -26301,19 +26301,19 @@ class="
 <li>Using data from two different sources can create nightmare scenarios.</li>
 </ol>
 <ul>
-<li>We spent much of our time trying to figure out ways to link data properly so that most of the data would stay. This was incredibly painful and time consuming. However, we found this time was beneficial and applicable to real world scenarios.</li>
+<li>We spent too much of our time trying to figure out ways to link data properly so that most of the data would stay. This was incredibly painful and time consuming. However, we found this time was beneficial and applicable to real world scenarios.</li>
 </ul>
 <ol start="2">
 <li>Save and rerun your notebook multiple times.</li>
 </ol>
 <ul>
-<li>Funky things can happen. When you are working variables can change and functions can be run in a non-linear fashion after you have been working for a while. This can cause issues later when you open your notebook the next day, and it says &quot;XYZ Function is not defined.&quot;</li>
+<li>Funky things can happen. When you are working, the order in which variables and functions are instantiated can change after you have been working for a while. This can cause issues later when you open your notebook the next day, and it says &quot;XYZ function or variable is not defined.&quot;</li>
 </ul>
 <ol start="3">
 <li>Planning is essential.</li>
 </ol>
 <ul>
-<li>The hardest part was choosing what we wanted to examine. We had endless options of choices: which data sources to use? Which stats to look at? What time period? etc. We had to make endless judgment calls and constantly narrow down our focus to accomplish our goal of predicting an NFL team's win count. When we first started our project was called &quot;Factors influencing NFL Games&quot; - Looking back now, this sounds like a train wreck because the word &quot;factors&quot; is so vague. Narrow your focus, choose well, clean data and your life is much better.</li>
+<li>The hardest part was choosing what we wanted to examine. We had endless options of choices: which data sources to use? Which stats to look at? What time period? etc. We had to make endless judgment calls and constantly narrow down our focus to accomplish our goal of predicting an NFL team's win count. When we first started our project was called &quot;Factors influencing NFL Games&quot; - Looking back now, this sounds like a train wreck because the word &quot;factors&quot; is so vague. Narrow your focus, choose well, clean your data, and your life will be much better.</li>
 </ul>
 <ol start="4">
 <li>Always focus on the question at hand.</li>
